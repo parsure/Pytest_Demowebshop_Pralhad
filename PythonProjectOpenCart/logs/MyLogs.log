@@ -1,0 +1,1799 @@
+06/11/2025 02:51:11 PM: INFO: ***---Login is started---***
+06/11/2025 02:51:11 PM: INFO: ***invoking the browser***
+06/11/2025 02:51:12 PM: INFO: ***browser invoked***
+06/11/2025 02:51:12 PM: INFO: ***---Launching browser window---***
+06/11/2025 02:51:13 PM: INFO: ***---Launching Landing Page---***
+06/11/2025 02:51:16 PM: INFO: ***---Launching Login Page---***
+06/11/2025 02:51:17 PM: INFO: ***---Launching Home Page---***
+06/11/2025 02:51:17 PM: INFO: ***---LLogin function is completed---***
+06/11/2025 02:51:17 PM: INFO: ***closing the browser***
+06/11/2025 02:51:17 PM: INFO: ***browser closed***
+06/11/2025 02:52:56 PM: INFO: ***---Login is started---***
+06/11/2025 02:52:56 PM: INFO: ***invoking the browser***
+06/11/2025 02:52:57 PM: INFO: ***browser invoked***
+06/11/2025 02:52:57 PM: INFO: ***---Launching browser window---***
+06/11/2025 02:53:00 PM: INFO: ***---Launching Landing Page---***
+06/11/2025 02:53:01 PM: INFO: ***---Launching Login Page---***
+06/11/2025 02:53:01 PM: INFO: ***---Launching Home Page---***
+06/11/2025 02:53:02 PM: INFO: ***---LLogin function is completed---***
+06/11/2025 02:53:02 PM: INFO: ***logging out the app***
+06/11/2025 02:53:06 PM: INFO: ***successfully logged out***
+06/11/2025 02:53:06 PM: INFO: ***closing the browser***
+06/11/2025 02:53:06 PM: INFO: ***browser closed***
+06/11/2025 02:56:03 PM: INFO: ***invoking the browser***
+06/11/2025 02:56:04 PM: INFO: ***browser invoked***
+06/11/2025 02:56:04 PM: INFO: ***hitting url in browser***
+06/11/2025 02:56:09 PM: INFO: ***clicked on login link***
+06/11/2025 02:56:10 PM: INFO: ***clicked on login button***
+06/11/2025 02:56:12 PM: INFO: ***logging out the app***
+06/11/2025 02:56:16 PM: INFO: ***successfully logged out***
+06/11/2025 02:56:16 PM: INFO: ***closing the browser***
+06/11/2025 02:56:16 PM: INFO: ***browser closed***
+06/11/2025 03:09:40 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:09:40 PM: INFO: ***invoking the browser***
+06/11/2025 03:09:42 PM: INFO: ***browser invoked***
+06/11/2025 03:09:42 PM: INFO: ***hitting url in browser***
+06/11/2025 03:09:45 PM: INFO: ***clicked on login link***
+06/11/2025 03:09:47 PM: INFO: ***clicked on login button***
+06/11/2025 03:09:47 PM: INFO: ** login to application**
+06/11/2025 03:09:47 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:09:47 PM: INFO: ** selected required product name** **
+06/11/2025 03:09:47 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:09:47 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:09:47 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:09:47 PM: INFO: ** performing action checkout page**
+06/11/2025 03:09:58 PM: INFO: ***logging out the app***
+06/11/2025 03:10:02 PM: INFO: ***successfully logged out***
+06/11/2025 03:10:02 PM: INFO: ***closing the browser***
+06/11/2025 03:10:02 PM: INFO: ***browser closed***
+06/11/2025 03:12:08 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:12:08 PM: INFO: ***invoking the browser***
+06/11/2025 03:12:09 PM: INFO: ***browser invoked***
+06/11/2025 03:12:09 PM: INFO: ***hitting url in browser***
+06/11/2025 03:12:13 PM: INFO: ***clicked on login link***
+06/11/2025 03:12:14 PM: INFO: ***clicked on login button***
+06/11/2025 03:12:14 PM: INFO: ** login to application**
+06/11/2025 03:12:14 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:12:14 PM: INFO: ** selected required product name** **
+06/11/2025 03:12:14 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:12:15 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:12:15 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:12:17 PM: INFO: ** performing action checkout page**
+06/11/2025 03:12:27 PM: INFO: ***logging out the app***
+06/11/2025 03:12:31 PM: INFO: ***successfully logged out***
+06/11/2025 03:12:31 PM: INFO: ***closing the browser***
+06/11/2025 03:12:31 PM: INFO: ***browser closed***
+06/11/2025 03:17:59 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:17:59 PM: INFO: ***invoking the browser***
+06/11/2025 03:18:00 PM: INFO: ***browser invoked***
+06/11/2025 03:18:00 PM: INFO: ***hitting url in browser***
+06/11/2025 03:18:04 PM: INFO: ***clicked on login link***
+06/11/2025 03:18:05 PM: INFO: ***clicked on login button***
+06/11/2025 03:18:05 PM: INFO: ** login to application**
+06/11/2025 03:18:05 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:18:05 PM: INFO: ** selected required product name** **
+06/11/2025 03:18:05 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:18:06 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:18:06 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:18:06 PM: INFO: ** performing action checkout page**
+06/11/2025 03:18:23 PM: INFO: ***logging out the app***
+06/11/2025 03:18:27 PM: INFO: ***successfully logged out***
+06/11/2025 03:18:27 PM: INFO: ***closing the browser***
+06/11/2025 03:18:27 PM: INFO: ***browser closed***
+06/11/2025 03:20:40 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:20:40 PM: INFO: ***invoking the browser***
+06/11/2025 03:20:41 PM: INFO: ***browser invoked***
+06/11/2025 03:20:41 PM: INFO: ***hitting url in browser***
+06/11/2025 03:20:45 PM: INFO: ***clicked on login link***
+06/11/2025 03:20:45 PM: INFO: ***clicked on login button***
+06/11/2025 03:20:45 PM: INFO: ** login to application**
+06/11/2025 03:20:45 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:20:47 PM: INFO: ** selected required product name** **
+06/11/2025 03:20:47 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:20:48 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:20:48 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:20:48 PM: INFO: ** performing action checkout page**
+06/11/2025 03:20:55 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:21:05 PM: INFO: ***logging out the app***
+06/11/2025 03:21:09 PM: INFO: ***successfully logged out***
+06/11/2025 03:21:09 PM: INFO: ***closing the browser***
+06/11/2025 03:21:09 PM: INFO: ***browser closed***
+06/11/2025 03:23:47 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:23:47 PM: INFO: ***invoking the browser***
+06/11/2025 03:23:48 PM: INFO: ***browser invoked***
+06/11/2025 03:23:48 PM: INFO: ***hitting url in browser***
+06/11/2025 03:23:53 PM: INFO: ***clicked on login link***
+06/11/2025 03:23:53 PM: INFO: ***clicked on login button***
+06/11/2025 03:23:53 PM: INFO: ** login to application**
+06/11/2025 03:23:53 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:23:54 PM: INFO: ** selected required product name** **
+06/11/2025 03:23:54 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:23:55 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:23:55 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:23:55 PM: INFO: ** performing action checkout page**
+06/11/2025 03:24:02 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:24:12 PM: INFO: ***logging out the app***
+06/11/2025 03:24:16 PM: INFO: ***successfully logged out***
+06/11/2025 03:24:16 PM: INFO: ***closing the browser***
+06/11/2025 03:24:16 PM: INFO: ***browser closed***
+06/11/2025 03:26:43 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:26:43 PM: INFO: ***invoking the browser***
+06/11/2025 03:26:46 PM: INFO: ***browser invoked***
+06/11/2025 03:26:46 PM: INFO: ***hitting url in browser***
+06/11/2025 03:26:50 PM: INFO: ***clicked on login link***
+06/11/2025 03:26:50 PM: INFO: ***clicked on login button***
+06/11/2025 03:26:50 PM: INFO: ** login to application**
+06/11/2025 03:26:50 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:26:52 PM: INFO: ** selected required product name** **
+06/11/2025 03:26:52 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:26:52 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:26:52 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:26:54 PM: INFO: ** performing action checkout page**
+06/11/2025 03:26:59 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:27:09 PM: INFO: ***logging out the app***
+06/11/2025 03:27:13 PM: INFO: ***successfully logged out***
+06/11/2025 03:27:13 PM: INFO: ***closing the browser***
+06/11/2025 03:27:13 PM: INFO: ***browser closed***
+06/11/2025 03:29:49 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:29:49 PM: INFO: ***invoking the browser***
+06/11/2025 03:29:50 PM: INFO: ***browser invoked***
+06/11/2025 03:29:50 PM: INFO: ***hitting url in browser***
+06/11/2025 03:29:55 PM: INFO: ***clicked on login link***
+06/11/2025 03:29:56 PM: INFO: ***clicked on login button***
+06/11/2025 03:29:56 PM: INFO: ** login to application**
+06/11/2025 03:29:56 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:29:56 PM: INFO: ** selected required product name** **
+06/11/2025 03:29:56 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:29:57 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:29:57 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:29:57 PM: INFO: ** performing action checkout page**
+06/11/2025 03:30:04 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:30:11 PM: INFO: ***logging out the app***
+06/11/2025 03:30:15 PM: INFO: ***successfully logged out***
+06/11/2025 03:30:15 PM: INFO: ***closing the browser***
+06/11/2025 03:30:15 PM: INFO: ***browser closed***
+06/11/2025 03:33:06 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:33:06 PM: INFO: ***invoking the browser***
+06/11/2025 03:33:07 PM: INFO: ***browser invoked***
+06/11/2025 03:33:07 PM: INFO: ***hitting url in browser***
+06/11/2025 03:33:11 PM: INFO: ***clicked on login link***
+06/11/2025 03:33:11 PM: INFO: ***clicked on login button***
+06/11/2025 03:33:11 PM: INFO: ** login to application**
+06/11/2025 03:33:11 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:33:12 PM: INFO: ** selected required product name** **
+06/11/2025 03:33:12 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:33:13 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:33:13 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:33:13 PM: INFO: ** performing action checkout page**
+06/11/2025 03:33:20 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:33:27 PM: INFO: ***logging out the app***
+06/11/2025 03:33:31 PM: INFO: ***successfully logged out***
+06/11/2025 03:33:31 PM: INFO: ***closing the browser***
+06/11/2025 03:33:31 PM: INFO: ***browser closed***
+06/11/2025 03:36:29 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:36:29 PM: INFO: ***invoking the browser***
+06/11/2025 03:36:30 PM: INFO: ***browser invoked***
+06/11/2025 03:36:30 PM: INFO: ***hitting url in browser***
+06/11/2025 03:36:34 PM: INFO: ***clicked on login link***
+06/11/2025 03:36:34 PM: INFO: ***clicked on login button***
+06/11/2025 03:36:34 PM: INFO: ** login to application**
+06/11/2025 03:36:34 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:36:35 PM: INFO: ** selected required product name** **
+06/11/2025 03:36:35 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:36:36 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:36:36 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:36:36 PM: INFO: ** performing action checkout page**
+06/11/2025 03:36:42 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:36:47 PM: INFO: ***logging out the app***
+06/11/2025 03:36:51 PM: INFO: ***successfully logged out***
+06/11/2025 03:36:51 PM: INFO: ***closing the browser***
+06/11/2025 03:36:51 PM: INFO: ***browser closed***
+06/11/2025 03:45:13 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:45:13 PM: INFO: ***invoking the browser***
+06/11/2025 03:45:14 PM: INFO: ***browser invoked***
+06/11/2025 03:45:14 PM: INFO: ***hitting url in browser***
+06/11/2025 03:45:18 PM: INFO: ***clicked on login link***
+06/11/2025 03:45:19 PM: INFO: ***clicked on login button***
+06/11/2025 03:45:19 PM: INFO: ** login to application**
+06/11/2025 03:45:19 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:45:19 PM: INFO: ** selected required product name** **
+06/11/2025 03:45:19 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:45:20 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:45:20 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:45:21 PM: INFO: ** performing action checkout page**
+06/11/2025 03:45:23 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:45:31 PM: INFO: ***logging out the app***
+06/11/2025 03:45:34 PM: INFO: ***successfully logged out***
+06/11/2025 03:45:34 PM: INFO: ***closing the browser***
+06/11/2025 03:45:35 PM: INFO: ***browser closed***
+06/11/2025 03:46:48 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:46:48 PM: INFO: ***invoking the browser***
+06/11/2025 03:46:49 PM: INFO: ***browser invoked***
+06/11/2025 03:46:49 PM: INFO: ***hitting url in browser***
+06/11/2025 03:46:53 PM: INFO: ***clicked on login link***
+06/11/2025 03:46:53 PM: INFO: ***clicked on login button***
+06/11/2025 03:46:53 PM: INFO: ** login to application**
+06/11/2025 03:46:53 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:46:54 PM: INFO: ** selected required product name** **
+06/11/2025 03:46:54 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:46:55 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:46:55 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:46:55 PM: INFO: ** performing action checkout page**
+06/11/2025 03:46:58 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:47:06 PM: INFO: ***logging out the app***
+06/11/2025 03:47:09 PM: INFO: ***successfully logged out***
+06/11/2025 03:47:09 PM: INFO: ***closing the browser***
+06/11/2025 03:47:10 PM: INFO: ***browser closed***
+06/11/2025 03:48:58 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:48:58 PM: INFO: ***invoking the browser***
+06/11/2025 03:49:00 PM: INFO: ***browser invoked***
+06/11/2025 03:49:00 PM: INFO: ***hitting url in browser***
+06/11/2025 03:49:03 PM: INFO: ***clicked on login link***
+06/11/2025 03:49:04 PM: INFO: ***clicked on login button***
+06/11/2025 03:49:04 PM: INFO: ** login to application**
+06/11/2025 03:49:04 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:49:04 PM: INFO: ** selected required product name** **
+06/11/2025 03:49:04 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:49:05 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:49:05 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:49:05 PM: INFO: ** performing action checkout page**
+06/11/2025 03:49:11 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:49:18 PM: INFO: ***logging out the app***
+06/11/2025 03:49:22 PM: INFO: ***successfully logged out***
+06/11/2025 03:49:22 PM: INFO: ***closing the browser***
+06/11/2025 03:49:22 PM: INFO: ***browser closed***
+06/11/2025 03:49:51 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:49:51 PM: INFO: ***invoking the browser***
+06/11/2025 03:49:52 PM: INFO: ***browser invoked***
+06/11/2025 03:49:52 PM: INFO: ***hitting url in browser***
+06/11/2025 03:49:56 PM: INFO: ***clicked on login link***
+06/11/2025 03:49:56 PM: INFO: ***clicked on login button***
+06/11/2025 03:49:56 PM: INFO: ** login to application**
+06/11/2025 03:49:56 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:49:57 PM: INFO: ** selected required product name** **
+06/11/2025 03:49:57 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:49:57 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:49:57 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:49:57 PM: INFO: ** performing action checkout page**
+06/11/2025 03:50:01 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:51:25 PM: INFO: ***logging out the app***
+06/11/2025 03:51:33 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 03:51:33 PM: INFO: ***invoking the browser***
+06/11/2025 03:51:34 PM: INFO: ***browser invoked***
+06/11/2025 03:51:34 PM: INFO: ***hitting url in browser***
+06/11/2025 03:51:38 PM: INFO: ***clicked on login link***
+06/11/2025 03:51:39 PM: INFO: ***clicked on login button***
+06/11/2025 03:51:39 PM: INFO: ** login to application**
+06/11/2025 03:51:39 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 03:51:39 PM: INFO: ** selected required product name** **
+06/11/2025 03:51:39 PM: INFO: ** Adding product to the cart **
+06/11/2025 03:51:40 PM: INFO: ** Verifying the cart product name **
+06/11/2025 03:51:40 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 03:51:40 PM: INFO: ** performing action checkout page**
+06/11/2025 03:51:44 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 03:51:56 PM: INFO: ***logging out the app***
+06/11/2025 03:52:00 PM: INFO: ***successfully logged out***
+06/11/2025 03:52:00 PM: INFO: ***closing the browser***
+06/11/2025 03:52:01 PM: INFO: ***browser closed***
+06/11/2025 04:03:29 PM: INFO: ***invoking the browser***
+06/11/2025 04:03:30 PM: INFO: ***browser invoked***
+06/11/2025 04:03:30 PM: INFO: ***hitting url in browser***
+06/11/2025 04:03:34 PM: INFO: ***clicked on login link***
+06/11/2025 04:03:35 PM: INFO: ***clicked on login button***
+06/11/2025 04:03:41 PM: INFO: ** clicked on the cart **
+06/11/2025 04:03:42 PM: INFO: ** Verifying the cart product name **
+06/11/2025 04:03:47 PM: INFO: ***logging out the app***
+06/11/2025 04:03:51 PM: INFO: ***successfully logged out***
+06/11/2025 04:03:51 PM: INFO: ***closing the browser***
+06/11/2025 04:03:51 PM: INFO: ***browser closed***
+06/11/2025 04:08:32 PM: INFO: ***invoking the browser***
+06/11/2025 04:08:33 PM: INFO: ***browser invoked***
+06/11/2025 04:08:33 PM: INFO: ***hitting url in browser***
+06/11/2025 04:08:38 PM: INFO: ***clicked on login link***
+06/11/2025 04:08:39 PM: INFO: ***clicked on login button***
+06/11/2025 04:08:47 PM: INFO: ** clicked on the cart **
+06/11/2025 04:08:53 PM: INFO: ** Verifying the cart product name **
+06/11/2025 04:08:58 PM: INFO: ***logging out the app***
+06/11/2025 04:09:02 PM: INFO: ***successfully logged out***
+06/11/2025 04:09:02 PM: INFO: ***closing the browser***
+06/11/2025 04:09:02 PM: INFO: ***browser closed***
+06/11/2025 04:11:26 PM: INFO: ***invoking the browser***
+06/11/2025 04:11:28 PM: INFO: ***browser invoked***
+06/11/2025 04:11:28 PM: INFO: ***hitting url in browser***
+06/11/2025 04:11:32 PM: INFO: ***clicked on login link***
+06/11/2025 04:11:32 PM: INFO: ***clicked on login button***
+06/11/2025 04:11:33 PM: INFO: ***logging out the app***
+06/11/2025 04:11:37 PM: INFO: ***successfully logged out***
+06/11/2025 04:11:37 PM: INFO: ***closing the browser***
+06/11/2025 04:11:37 PM: INFO: ***browser closed***
+06/11/2025 04:12:21 PM: INFO: ***invoking the browser***
+06/11/2025 04:12:22 PM: INFO: ***browser invoked***
+06/11/2025 04:12:22 PM: INFO: ***hitting url in browser***
+06/11/2025 04:12:26 PM: INFO: ***clicked on login link***
+06/11/2025 04:12:26 PM: INFO: ***clicked on login button***
+06/11/2025 04:12:38 PM: INFO: ** clicked on the cart **
+06/11/2025 04:12:44 PM: INFO: ** Verifying the cart product name **
+06/11/2025 04:12:44 PM: INFO: ***logging out the app***
+06/11/2025 04:12:48 PM: INFO: ***successfully logged out***
+06/11/2025 04:12:48 PM: INFO: ***closing the browser***
+06/11/2025 04:12:49 PM: INFO: ***browser closed***
+06/11/2025 05:45:43 PM: INFO: ***invoking the browser***
+06/11/2025 05:45:56 PM: INFO: ***browser invoked***
+06/11/2025 05:45:56 PM: INFO: ***hitting url in browser***
+06/11/2025 05:46:01 PM: INFO: ***clicked on login link***
+06/11/2025 05:46:01 PM: INFO: ***clicked on login button***
+06/11/2025 05:46:13 PM: INFO: ** clicked on the cart **
+06/11/2025 05:46:20 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:46:20 PM: INFO: ***logging out the app***
+06/11/2025 05:46:24 PM: INFO: ***successfully logged out***
+06/11/2025 05:46:24 PM: INFO: ***closing the browser***
+06/11/2025 05:46:24 PM: INFO: ***browser closed***
+06/11/2025 05:47:31 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:47:31 PM: INFO: ***invoking the browser***
+06/11/2025 05:47:32 PM: INFO: ***browser invoked***
+06/11/2025 05:47:32 PM: INFO: ***hitting url in browser***
+06/11/2025 05:47:36 PM: INFO: ***clicked on login link***
+06/11/2025 05:47:36 PM: INFO: ***clicked on login button***
+06/11/2025 05:47:36 PM: INFO: ** login to application**
+06/11/2025 05:47:36 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:47:37 PM: INFO: ** selected required product name** **
+06/11/2025 05:47:37 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:47:38 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:47:38 PM: INFO: ***logging out the app***
+06/11/2025 05:47:41 PM: INFO: ***successfully logged out***
+06/11/2025 05:47:41 PM: INFO: ***closing the browser***
+06/11/2025 05:47:42 PM: INFO: ***browser closed***
+06/11/2025 05:48:10 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:48:10 PM: INFO: ***invoking the browser***
+06/11/2025 05:48:11 PM: INFO: ***browser invoked***
+06/11/2025 05:48:11 PM: INFO: ***hitting url in browser***
+06/11/2025 05:48:15 PM: INFO: ***clicked on login link***
+06/11/2025 05:48:16 PM: INFO: ***clicked on login button***
+06/11/2025 05:48:16 PM: INFO: ** login to application**
+06/11/2025 05:48:16 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:48:16 PM: INFO: ** selected required product name** **
+06/11/2025 05:48:16 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:48:17 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:48:17 PM: INFO: ***logging out the app***
+06/11/2025 05:48:21 PM: INFO: ***successfully logged out***
+06/11/2025 05:48:21 PM: INFO: ***closing the browser***
+06/11/2025 05:48:21 PM: INFO: ***browser closed***
+06/11/2025 05:48:34 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:48:34 PM: INFO: ***invoking the browser***
+06/11/2025 05:48:36 PM: INFO: ***browser invoked***
+06/11/2025 05:48:36 PM: INFO: ***hitting url in browser***
+06/11/2025 05:48:39 PM: INFO: ***clicked on login link***
+06/11/2025 05:48:41 PM: INFO: ***clicked on login button***
+06/11/2025 05:48:41 PM: INFO: ** login to application**
+06/11/2025 05:48:41 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:48:41 PM: INFO: ** selected required product name** **
+06/11/2025 05:48:41 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:48:41 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:48:41 PM: INFO: ***logging out the app***
+06/11/2025 05:48:45 PM: INFO: ***successfully logged out***
+06/11/2025 05:48:45 PM: INFO: ***closing the browser***
+06/11/2025 05:48:45 PM: INFO: ***browser closed***
+06/11/2025 05:49:26 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:49:26 PM: INFO: ***invoking the browser***
+06/11/2025 05:49:28 PM: INFO: ***browser invoked***
+06/11/2025 05:49:28 PM: INFO: ***hitting url in browser***
+06/11/2025 05:49:32 PM: INFO: ***clicked on login link***
+06/11/2025 05:49:33 PM: INFO: ***clicked on login button***
+06/11/2025 05:49:33 PM: INFO: ** login to application**
+06/11/2025 05:49:33 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:49:33 PM: INFO: ** selected required product name** **
+06/11/2025 05:49:33 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:49:34 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:49:34 PM: INFO: ***logging out the app***
+06/11/2025 05:49:38 PM: INFO: ***successfully logged out***
+06/11/2025 05:49:38 PM: INFO: ***closing the browser***
+06/11/2025 05:49:38 PM: INFO: ***browser closed***
+06/11/2025 05:50:14 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:50:14 PM: INFO: ***invoking the browser***
+06/11/2025 05:50:15 PM: INFO: ***browser invoked***
+06/11/2025 05:50:15 PM: INFO: ***hitting url in browser***
+06/11/2025 05:50:19 PM: INFO: ***clicked on login link***
+06/11/2025 05:50:19 PM: INFO: ***clicked on login button***
+06/11/2025 05:50:19 PM: INFO: ** login to application**
+06/11/2025 05:50:19 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:50:19 PM: INFO: ** selected required product name** **
+06/11/2025 05:50:19 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:50:20 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:50:25 PM: INFO: ***logging out the app***
+06/11/2025 05:50:29 PM: INFO: ***successfully logged out***
+06/11/2025 05:50:29 PM: INFO: ***closing the browser***
+06/11/2025 05:50:29 PM: INFO: ***browser closed***
+06/11/2025 05:50:43 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:50:43 PM: INFO: ***invoking the browser***
+06/11/2025 05:50:44 PM: INFO: ***browser invoked***
+06/11/2025 05:50:44 PM: INFO: ***hitting url in browser***
+06/11/2025 05:50:48 PM: INFO: ***clicked on login link***
+06/11/2025 05:50:49 PM: INFO: ***clicked on login button***
+06/11/2025 05:50:49 PM: INFO: ** login to application**
+06/11/2025 05:50:49 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:50:49 PM: INFO: ** selected required product name** **
+06/11/2025 05:50:49 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:50:49 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:50:54 PM: INFO: ***logging out the app***
+06/11/2025 05:50:58 PM: INFO: ***successfully logged out***
+06/11/2025 05:50:58 PM: INFO: ***closing the browser***
+06/11/2025 05:50:58 PM: INFO: ***browser closed***
+06/11/2025 05:51:11 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:51:11 PM: INFO: ***invoking the browser***
+06/11/2025 05:51:13 PM: INFO: ***browser invoked***
+06/11/2025 05:51:13 PM: INFO: ***hitting url in browser***
+06/11/2025 05:51:17 PM: INFO: ***clicked on login link***
+06/11/2025 05:51:17 PM: INFO: ***clicked on login button***
+06/11/2025 05:51:17 PM: INFO: ** login to application**
+06/11/2025 05:51:17 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:51:17 PM: INFO: ** selected required product name** **
+06/11/2025 05:51:17 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:51:18 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:51:23 PM: INFO: ***logging out the app***
+06/11/2025 05:51:27 PM: INFO: ***successfully logged out***
+06/11/2025 05:51:27 PM: INFO: ***closing the browser***
+06/11/2025 05:51:27 PM: INFO: ***browser closed***
+06/11/2025 05:51:58 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:51:58 PM: INFO: ***invoking the browser***
+06/11/2025 05:51:59 PM: INFO: ***browser invoked***
+06/11/2025 05:51:59 PM: INFO: ***hitting url in browser***
+06/11/2025 05:52:03 PM: INFO: ***clicked on login link***
+06/11/2025 05:52:03 PM: INFO: ***clicked on login button***
+06/11/2025 05:52:03 PM: INFO: ** login to application**
+06/11/2025 05:52:03 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:52:04 PM: INFO: ** selected required product name** **
+06/11/2025 05:52:04 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:52:05 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:52:10 PM: INFO: ***logging out the app***
+06/11/2025 05:52:13 PM: INFO: ***successfully logged out***
+06/11/2025 05:52:13 PM: INFO: ***closing the browser***
+06/11/2025 05:52:14 PM: INFO: ***browser closed***
+06/11/2025 05:52:30 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:52:30 PM: INFO: ***invoking the browser***
+06/11/2025 05:52:31 PM: INFO: ***browser invoked***
+06/11/2025 05:52:31 PM: INFO: ***hitting url in browser***
+06/11/2025 05:52:35 PM: INFO: ***clicked on login link***
+06/11/2025 05:52:36 PM: INFO: ***clicked on login button***
+06/11/2025 05:52:36 PM: INFO: ** login to application**
+06/11/2025 05:52:36 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:52:36 PM: INFO: ** selected required product name** **
+06/11/2025 05:54:31 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:54:57 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:55:11 PM: INFO: ***logging out the app***
+06/11/2025 05:55:15 PM: INFO: ***successfully logged out***
+06/11/2025 05:55:15 PM: INFO: ***closing the browser***
+06/11/2025 05:55:15 PM: INFO: ***browser closed***
+06/11/2025 05:55:54 PM: INFO: ***---Login is started---***
+06/11/2025 05:55:54 PM: INFO: ** Login DDT testing started **
+06/11/2025 05:55:54 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:55:54 PM: INFO: ***invoking the browser***
+06/11/2025 05:55:55 PM: INFO: ***browser invoked***
+06/11/2025 05:55:55 PM: INFO: ***hitting url in browser***
+06/11/2025 05:55:59 PM: INFO: ***clicked on login link***
+06/11/2025 05:55:59 PM: INFO: ***clicked on login button***
+06/11/2025 05:55:59 PM: INFO: ** login to application**
+06/11/2025 05:55:59 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:56:00 PM: INFO: ** selected required product name** **
+06/11/2025 05:56:00 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:56:01 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:56:06 PM: INFO: ***logging out the app***
+06/11/2025 05:56:10 PM: INFO: ***successfully logged out***
+06/11/2025 05:56:10 PM: INFO: ***closing the browser***
+06/11/2025 05:56:10 PM: INFO: ***browser closed***
+06/11/2025 05:57:51 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:57:51 PM: INFO: ***invoking the browser***
+06/11/2025 05:57:52 PM: INFO: ***browser invoked***
+06/11/2025 05:57:52 PM: INFO: ***hitting url in browser***
+06/11/2025 05:57:55 PM: INFO: ***clicked on login link***
+06/11/2025 05:57:56 PM: INFO: ***clicked on login button***
+06/11/2025 05:57:56 PM: INFO: ** login to application**
+06/11/2025 05:57:56 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:57:56 PM: INFO: ** selected required product name** **
+06/11/2025 05:57:56 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:57:57 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:58:02 PM: INFO: ***logging out the app***
+06/11/2025 05:59:08 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:59:08 PM: INFO: ***invoking the browser***
+06/11/2025 05:59:09 PM: INFO: ***browser invoked***
+06/11/2025 05:59:09 PM: INFO: ***hitting url in browser***
+06/11/2025 05:59:13 PM: INFO: ***clicked on login link***
+06/11/2025 05:59:14 PM: INFO: ***clicked on login button***
+06/11/2025 05:59:14 PM: INFO: ** login to application**
+06/11/2025 05:59:14 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:59:14 PM: INFO: ** selected required product name** **
+06/11/2025 05:59:14 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:59:15 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:59:15 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/11/2025 05:59:15 PM: INFO: ** performing action checkout page**
+06/11/2025 05:59:16 PM: INFO: Waiting for shipping address continue button to be clickable
+06/11/2025 05:59:20 PM: INFO: ***logging out the app***
+06/11/2025 05:59:24 PM: INFO: ***successfully logged out***
+06/11/2025 05:59:24 PM: INFO: ***closing the browser***
+06/11/2025 05:59:24 PM: INFO: ***browser closed***
+06/11/2025 05:59:45 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 05:59:45 PM: INFO: ***invoking the browser***
+06/11/2025 05:59:47 PM: INFO: ***browser invoked***
+06/11/2025 05:59:47 PM: INFO: ***hitting url in browser***
+06/11/2025 05:59:50 PM: INFO: ***clicked on login link***
+06/11/2025 05:59:51 PM: INFO: ***clicked on login button***
+06/11/2025 05:59:51 PM: INFO: ** login to application**
+06/11/2025 05:59:51 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 05:59:51 PM: INFO: ** selected required product name** **
+06/11/2025 05:59:51 PM: INFO: ** Adding product to the cart **
+06/11/2025 05:59:52 PM: INFO: ** Verifying the cart product name **
+06/11/2025 05:59:57 PM: INFO: ***logging out the app***
+06/11/2025 06:00:01 PM: INFO: ***successfully logged out***
+06/11/2025 06:00:01 PM: INFO: ***closing the browser***
+06/11/2025 06:00:01 PM: INFO: ***browser closed***
+06/11/2025 06:02:12 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 06:02:12 PM: INFO: ***invoking the browser***
+06/11/2025 06:02:13 PM: INFO: ***browser invoked***
+06/11/2025 06:02:13 PM: INFO: ***hitting url in browser***
+06/11/2025 06:02:17 PM: INFO: ***clicked on login link***
+06/11/2025 06:02:17 PM: INFO: ***clicked on login button***
+06/11/2025 06:02:17 PM: INFO: ** login to application**
+06/11/2025 06:02:17 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 06:02:18 PM: INFO: ** selected required product name** **
+06/11/2025 06:02:18 PM: INFO: ** Adding product to the cart **
+06/11/2025 06:02:42 PM: INFO: ***logging out the app***
+06/11/2025 06:02:54 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 06:02:54 PM: INFO: ***invoking the browser***
+06/11/2025 06:02:55 PM: INFO: ***browser invoked***
+06/11/2025 06:02:55 PM: INFO: ***hitting url in browser***
+06/11/2025 06:02:59 PM: INFO: ***clicked on login link***
+06/11/2025 06:03:00 PM: INFO: ***clicked on login button***
+06/11/2025 06:03:00 PM: INFO: ** login to application**
+06/11/2025 06:03:00 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 06:03:40 PM: INFO: ** selected required product name** **
+06/11/2025 06:04:01 PM: INFO: ** Adding product to the cart **
+06/11/2025 06:04:22 PM: INFO: ** Verifying the cart product name **
+06/11/2025 06:04:38 PM: INFO: ***logging out the app***
+06/11/2025 06:04:43 PM: INFO: ***successfully logged out***
+06/11/2025 06:04:43 PM: INFO: ***closing the browser***
+06/11/2025 06:04:43 PM: INFO: ***browser closed***
+06/11/2025 06:06:41 PM: INFO: ***invoking the browser***
+06/11/2025 06:06:43 PM: INFO: ***browser invoked***
+06/11/2025 06:06:43 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:06:43 PM: INFO: **---Launching Application----**
+06/11/2025 06:06:46 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:06:47 PM: INFO: **---Entering basic details----**
+06/11/2025 06:06:47 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:06:48 PM: INFO: **---result msg is matched----**
+06/11/2025 06:06:48 PM: INFO: **---TC001 Account Registration finished----**
+06/11/2025 06:06:48 PM: INFO: ***logging out the app***
+06/11/2025 06:06:52 PM: INFO: ***successfully logged out***
+06/11/2025 06:06:52 PM: INFO: ***closing the browser***
+06/11/2025 06:06:52 PM: INFO: ***browser closed***
+06/11/2025 06:06:59 PM: INFO: ***---Login is started---***
+06/11/2025 06:06:59 PM: INFO: ***invoking the browser***
+06/11/2025 06:07:00 PM: INFO: ***browser invoked***
+06/11/2025 06:07:00 PM: INFO: ***---Launching browser window---***
+06/11/2025 06:07:04 PM: INFO: ***---Launching Landing Page---***
+06/11/2025 06:07:04 PM: INFO: ***---Launching Login Page---***
+06/11/2025 06:07:05 PM: INFO: ***---Launching Home Page---***
+06/11/2025 06:07:05 PM: INFO: ***---LLogin function is completed---***
+06/11/2025 06:07:05 PM: INFO: ***logging out the app***
+06/11/2025 06:07:09 PM: INFO: ***successfully logged out***
+06/11/2025 06:07:09 PM: INFO: ***closing the browser***
+06/11/2025 06:07:09 PM: INFO: ***browser closed***
+06/11/2025 06:07:17 PM: INFO: ** Login DDT testing started **
+06/11/2025 06:07:17 PM: INFO: ***invoking the browser***
+06/11/2025 06:07:18 PM: INFO: ***browser invoked***
+06/11/2025 06:07:18 PM: INFO: ** getting total rows **
+06/11/2025 06:07:18 PM: INFO: ** getting total columns **
+06/11/2025 06:07:19 PM: INFO: ** creating all page objects **
+06/11/2025 06:07:19 PM: INFO: ** ddt for loop **
+06/11/2025 06:07:22 PM: INFO: ** getting result **
+06/11/2025 06:07:22 PM: INFO: ** Verifying result **
+06/11/2025 06:07:22 PM: INFO: ** result matched **
+06/11/2025 06:07:24 PM: INFO: ** getting result **
+06/11/2025 06:07:29 PM: INFO: ** Verifying result **
+06/11/2025 06:07:29 PM: INFO: ** result matched **
+06/11/2025 06:07:31 PM: INFO: ** getting result **
+06/11/2025 06:07:36 PM: INFO: ** Verifying result **
+06/11/2025 06:07:36 PM: INFO: ** result matched **
+06/11/2025 06:07:36 PM: INFO: ***logging out the app***
+06/11/2025 06:08:30 PM: INFO: ***invoking the browser***
+06/11/2025 06:08:31 PM: INFO: ***browser invoked***
+06/11/2025 06:08:31 PM: INFO: ***hitting url in browser***
+06/11/2025 06:08:35 PM: INFO: ***clicked on login link***
+06/11/2025 06:08:36 PM: INFO: ***clicked on login button***
+06/11/2025 06:08:36 PM: INFO: ***logging out the app***
+06/11/2025 06:08:40 PM: INFO: ***successfully logged out***
+06/11/2025 06:08:40 PM: INFO: ***closing the browser***
+06/11/2025 06:08:40 PM: INFO: ***browser closed***
+06/11/2025 06:08:46 PM: INFO: ***invoking the browser***
+06/11/2025 06:08:47 PM: INFO: ***browser invoked***
+06/11/2025 06:08:47 PM: INFO: ***hitting url in browser***
+06/11/2025 06:08:51 PM: INFO: ***clicked on login link***
+06/11/2025 06:08:52 PM: INFO: ***clicked on login button***
+06/11/2025 06:09:03 PM: INFO: ** clicked on the cart **
+06/11/2025 06:09:10 PM: INFO: ** Verifying the cart product name **
+06/11/2025 06:09:10 PM: INFO: ***logging out the app***
+06/11/2025 06:09:13 PM: INFO: ***successfully logged out***
+06/11/2025 06:09:13 PM: INFO: ***closing the browser***
+06/11/2025 06:09:14 PM: INFO: ***browser closed***
+06/11/2025 06:09:26 PM: INFO: ** Started add to cart and checkout product feature**
+06/11/2025 06:09:26 PM: INFO: ***invoking the browser***
+06/11/2025 06:09:27 PM: INFO: ***browser invoked***
+06/11/2025 06:09:27 PM: INFO: ***hitting url in browser***
+06/11/2025 06:09:31 PM: INFO: ***clicked on login link***
+06/11/2025 06:09:31 PM: INFO: ***clicked on login button***
+06/11/2025 06:09:31 PM: INFO: ** login to application**
+06/11/2025 06:09:31 PM: INFO: ** fetching all product names in homepage **
+06/11/2025 06:09:32 PM: INFO: ** selected required product name** **
+06/11/2025 06:09:32 PM: INFO: ** Adding product to the cart **
+06/11/2025 06:09:33 PM: INFO: ** Verifying the cart product name **
+06/11/2025 06:09:33 PM: INFO: ***logging out the app***
+06/11/2025 06:09:37 PM: INFO: ***successfully logged out***
+06/11/2025 06:09:37 PM: INFO: ***closing the browser***
+06/11/2025 06:09:37 PM: INFO: ***browser closed***
+06/11/2025 06:24:11 PM: INFO: ***---Login is started---***
+06/11/2025 06:24:11 PM: INFO: ***invoking the browser***
+06/11/2025 06:24:12 PM: INFO: ***browser invoked***
+06/11/2025 06:24:12 PM: INFO: ***---Launching browser window---***
+06/11/2025 06:24:16 PM: INFO: ***---Launching Landing Page---***
+06/11/2025 06:24:17 PM: INFO: ***---Launching Login Page---***
+06/11/2025 06:24:17 PM: INFO: ***logging out the app***
+06/11/2025 06:29:01 PM: INFO: ***---Login is started---***
+06/11/2025 06:29:01 PM: INFO: ***invoking the browser***
+06/11/2025 06:29:03 PM: INFO: ***browser invoked***
+06/11/2025 06:29:03 PM: INFO: ***---Launching browser window---***
+06/11/2025 06:29:07 PM: INFO: ***---Launching Landing Page---***
+06/11/2025 06:29:07 PM: INFO: ***---Launching Login Page---***
+06/11/2025 06:29:09 PM: INFO: ***---Launching Home Page---***
+06/11/2025 06:29:09 PM: INFO: ***---LLogin function is completed---***
+06/11/2025 06:29:09 PM: INFO: ***logging out the app***
+06/11/2025 06:29:13 PM: INFO: ***successfully logged out***
+06/11/2025 06:29:13 PM: INFO: ***closing the browser***
+06/11/2025 06:29:13 PM: INFO: ***browser closed***
+06/11/2025 06:35:17 PM: INFO: ***invoking the browser***
+06/11/2025 06:35:18 PM: INFO: ***browser invoked***
+06/11/2025 06:35:18 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:35:18 PM: INFO: **---Launching Application----**
+06/11/2025 06:35:21 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:35:22 PM: INFO: ***logging out the app***
+06/11/2025 06:39:24 PM: INFO: ***invoking the browser***
+06/11/2025 06:39:25 PM: INFO: ***browser invoked***
+06/11/2025 06:39:25 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:39:25 PM: INFO: **---Launching Application----**
+06/11/2025 06:39:29 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:39:29 PM: INFO: **---Entering basic details----**
+06/11/2025 06:39:29 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:39:31 PM: INFO: **---result msg is not matched----**
+06/11/2025 06:39:31 PM: INFO: ***logging out the app***
+06/11/2025 06:39:35 PM: INFO: ***successfully logged out***
+06/11/2025 06:39:35 PM: INFO: ***closing the browser***
+06/11/2025 06:39:35 PM: INFO: ***browser closed***
+06/11/2025 06:42:38 PM: INFO: ***invoking the browser***
+06/11/2025 06:42:39 PM: INFO: ***browser invoked***
+06/11/2025 06:42:39 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:42:39 PM: INFO: **---Launching Application----**
+06/11/2025 06:42:43 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:42:44 PM: INFO: **---Entering basic details----**
+06/11/2025 06:42:44 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:42:45 PM: INFO: **---result msg is not matched----**
+06/11/2025 06:42:45 PM: INFO: ***logging out the app***
+06/11/2025 06:42:49 PM: INFO: ***successfully logged out***
+06/11/2025 06:42:49 PM: INFO: ***closing the browser***
+06/11/2025 06:42:49 PM: INFO: ***browser closed***
+06/11/2025 06:43:23 PM: INFO: ***invoking the browser***
+06/11/2025 06:43:24 PM: INFO: ***browser invoked***
+06/11/2025 06:43:24 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:43:24 PM: INFO: **---Launching Application----**
+06/11/2025 06:43:28 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:43:28 PM: INFO: **---Entering basic details----**
+06/11/2025 06:43:28 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:43:40 PM: INFO: ***logging out the app***
+06/11/2025 06:43:44 PM: INFO: ***successfully logged out***
+06/11/2025 06:43:44 PM: INFO: ***closing the browser***
+06/11/2025 06:43:44 PM: INFO: ***browser closed***
+06/11/2025 06:44:55 PM: INFO: ***invoking the browser***
+06/11/2025 06:44:56 PM: INFO: ***browser invoked***
+06/11/2025 06:44:56 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:44:56 PM: INFO: **---Launching Application----**
+06/11/2025 06:45:00 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:45:00 PM: INFO: **---Entering basic details----**
+06/11/2025 06:45:00 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:45:01 PM: INFO: **---result msg is matched----**
+06/11/2025 06:45:01 PM: INFO: **---TC001 Account Registration finished----**
+06/11/2025 06:45:01 PM: INFO: ***logging out the app***
+06/11/2025 06:45:05 PM: INFO: ***successfully logged out***
+06/11/2025 06:45:05 PM: INFO: ***closing the browser***
+06/11/2025 06:45:05 PM: INFO: ***browser closed***
+06/11/2025 06:48:18 PM: INFO: ***invoking the browser***
+06/11/2025 06:48:20 PM: INFO: ***browser invoked***
+06/11/2025 06:48:20 PM: INFO: **---TC001 Account Registration started----**
+06/11/2025 06:48:20 PM: INFO: **---Launching Application----**
+06/11/2025 06:48:23 PM: INFO: **---clicking on Register link----**
+06/11/2025 06:48:24 PM: INFO: **---Entering basic details----**
+06/11/2025 06:48:24 PM: INFO: **---clicking on Registration button----**
+06/11/2025 06:48:25 PM: INFO: **---result msg is matched----**
+06/11/2025 06:48:25 PM: INFO: **---TC001 Account Registration finished----**
+06/11/2025 06:48:25 PM: INFO: ***logging out the app***
+06/11/2025 06:48:29 PM: INFO: ***successfully logged out***
+06/11/2025 06:48:29 PM: INFO: ***closing the browser***
+06/11/2025 06:48:29 PM: INFO: ***browser closed***
+06/11/2025 06:48:58 PM: INFO: ** Login DDT testing started **
+06/11/2025 06:48:58 PM: INFO: ***invoking the browser***
+06/11/2025 06:48:59 PM: INFO: ***browser invoked***
+06/11/2025 06:48:59 PM: INFO: ** getting total rows **
+06/11/2025 06:48:59 PM: INFO: ** getting total columns **
+06/11/2025 06:49:03 PM: INFO: ** creating all page objects **
+06/11/2025 06:49:03 PM: INFO: ** ddt for loop **
+06/11/2025 06:49:04 PM: INFO: ** getting result **
+06/11/2025 06:49:04 PM: INFO: ** Verifying result **
+06/11/2025 06:49:04 PM: INFO: ** result matched **
+06/11/2025 06:49:06 PM: INFO: ** getting result **
+06/11/2025 06:49:11 PM: INFO: ** Verifying result **
+06/11/2025 06:49:11 PM: INFO: ** result matched **
+06/11/2025 06:49:13 PM: INFO: ** getting result **
+06/11/2025 06:49:18 PM: INFO: ** Verifying result **
+06/11/2025 06:49:18 PM: INFO: ** result matched **
+06/11/2025 06:49:18 PM: INFO: ***logging out the app***
+06/12/2025 10:11:30 AM: INFO: ***invoking the browser***
+06/12/2025 10:11:37 AM: INFO: ***browser invoked***
+06/12/2025 10:11:37 AM: INFO: **---TC001 Account Registration started----**
+06/12/2025 10:11:37 AM: INFO: **---Launching Application----**
+06/12/2025 10:11:40 AM: INFO: **---clicking on Register link----**
+06/12/2025 10:11:41 AM: INFO: **---Entering basic details----**
+06/12/2025 10:11:41 AM: INFO: **---clicking on Registration button----**
+06/12/2025 10:11:42 AM: INFO: **---result msg is matched----**
+06/12/2025 10:11:42 AM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 10:11:42 AM: INFO: ***logging out the app***
+06/12/2025 10:11:46 AM: INFO: ***successfully logged out***
+06/12/2025 10:11:46 AM: INFO: ***closing the browser***
+06/12/2025 10:11:46 AM: INFO: ***browser closed***
+06/12/2025 10:11:57 AM: INFO: ***---Login is started---***
+06/12/2025 10:11:57 AM: INFO: ***invoking the browser***
+06/12/2025 10:11:58 AM: INFO: ***browser invoked***
+06/12/2025 10:11:58 AM: INFO: ***---Launching browser window---***
+06/12/2025 10:11:59 AM: INFO: ***---Launching Landing Page---***
+06/12/2025 10:12:02 AM: INFO: ***---Launching Login Page---***
+06/12/2025 10:12:02 AM: INFO: ***---Launching Home Page---***
+06/12/2025 10:12:03 AM: INFO: ***---LLogin function is completed---***
+06/12/2025 10:12:03 AM: INFO: ***logging out the app***
+06/12/2025 10:12:06 AM: INFO: ***successfully logged out***
+06/12/2025 10:12:06 AM: INFO: ***closing the browser***
+06/12/2025 10:12:07 AM: INFO: ***browser closed***
+06/12/2025 10:12:19 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:12:19 AM: INFO: ***invoking the browser***
+06/12/2025 10:12:20 AM: INFO: ***browser invoked***
+06/12/2025 10:12:20 AM: INFO: ** getting total rows **
+06/12/2025 10:12:20 AM: INFO: ** getting total columns **
+06/12/2025 10:12:21 AM: INFO: ** creating all page objects **
+06/12/2025 10:12:21 AM: INFO: ** ddt for loop **
+06/12/2025 10:12:24 AM: INFO: ** getting result **
+06/12/2025 10:12:25 AM: INFO: ** Verifying result **
+06/12/2025 10:12:25 AM: INFO: ** result matched **
+06/12/2025 10:12:26 AM: INFO: ** getting result **
+06/12/2025 10:12:31 AM: INFO: ** Verifying result **
+06/12/2025 10:12:31 AM: INFO: ** result matched **
+06/12/2025 10:12:32 AM: INFO: ** getting result **
+06/12/2025 10:12:37 AM: INFO: ** Verifying result **
+06/12/2025 10:12:37 AM: INFO: ** result matched **
+06/12/2025 10:12:38 AM: INFO: ***logging out the app***
+06/12/2025 10:19:38 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:19:38 AM: INFO: ***invoking the browser***
+06/12/2025 10:19:39 AM: INFO: ***browser invoked***
+06/12/2025 10:19:39 AM: INFO: ** getting total rows **
+06/12/2025 10:19:39 AM: INFO: ***logging out the app***
+06/12/2025 10:20:00 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:20:00 AM: INFO: ***invoking the browser***
+06/12/2025 10:20:02 AM: INFO: ***browser invoked***
+06/12/2025 10:20:02 AM: INFO: ** getting total rows **
+06/12/2025 10:20:02 AM: INFO: ***logging out the app***
+06/12/2025 10:20:16 AM: INFO: ***---Login is started---***
+06/12/2025 10:20:16 AM: INFO: ***invoking the browser***
+06/12/2025 10:20:17 AM: INFO: ***browser invoked***
+06/12/2025 10:20:17 AM: INFO: ***---Launching browser window---***
+06/12/2025 10:20:20 AM: INFO: ***---Launching Landing Page---***
+06/12/2025 10:20:20 AM: INFO: ***---Launching Login Page---***
+06/12/2025 10:20:21 AM: INFO: ***---Launching Home Page---***
+06/12/2025 10:20:21 AM: INFO: ***---LLogin function is completed---***
+06/12/2025 10:20:21 AM: INFO: ***logging out the app***
+06/12/2025 10:20:25 AM: INFO: ***successfully logged out***
+06/12/2025 10:20:25 AM: INFO: ***closing the browser***
+06/12/2025 10:20:25 AM: INFO: ***browser closed***
+06/12/2025 10:20:29 AM: INFO: ***invoking the browser***
+06/12/2025 10:20:30 AM: INFO: ***browser invoked***
+06/12/2025 10:20:30 AM: INFO: **---TC001 Account Registration started----**
+06/12/2025 10:20:30 AM: INFO: **---Launching Application----**
+06/12/2025 10:20:33 AM: INFO: **---clicking on Register link----**
+06/12/2025 10:20:34 AM: INFO: **---Entering basic details----**
+06/12/2025 10:20:34 AM: INFO: **---clicking on Registration button----**
+06/12/2025 10:20:35 AM: INFO: **---result msg is matched----**
+06/12/2025 10:20:35 AM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 10:20:35 AM: INFO: ***logging out the app***
+06/12/2025 10:20:39 AM: INFO: ***successfully logged out***
+06/12/2025 10:20:39 AM: INFO: ***closing the browser***
+06/12/2025 10:20:39 AM: INFO: ***browser closed***
+06/12/2025 10:20:50 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:20:50 AM: INFO: ***invoking the browser***
+06/12/2025 10:20:51 AM: INFO: ***browser invoked***
+06/12/2025 10:20:51 AM: INFO: ** getting total rows **
+06/12/2025 10:20:51 AM: INFO: ***logging out the app***
+06/12/2025 10:22:07 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:22:07 AM: INFO: ***invoking the browser***
+06/12/2025 10:22:08 AM: INFO: ***browser invoked***
+06/12/2025 10:22:08 AM: INFO: ** getting total rows **
+06/12/2025 10:22:08 AM: INFO: ***logging out the app***
+06/12/2025 10:29:33 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:29:33 AM: INFO: ***invoking the browser***
+06/12/2025 10:29:35 AM: INFO: ***browser invoked***
+06/12/2025 10:29:35 AM: INFO: ** getting total rows **
+06/12/2025 10:29:35 AM: INFO: ** getting total columns **
+06/12/2025 10:29:38 AM: INFO: ** creating all page objects **
+06/12/2025 10:29:38 AM: INFO: ** ddt for loop **
+06/12/2025 10:29:39 AM: INFO: ** getting result **
+06/12/2025 10:29:40 AM: INFO: ** Verifying result **
+06/12/2025 10:29:40 AM: INFO: ** result matched **
+06/12/2025 10:29:41 AM: INFO: ** getting result **
+06/12/2025 10:29:46 AM: INFO: ** Verifying result **
+06/12/2025 10:29:46 AM: INFO: ** result matched **
+06/12/2025 10:29:47 AM: INFO: ** getting result **
+06/12/2025 10:29:52 AM: INFO: ** Verifying result **
+06/12/2025 10:29:52 AM: INFO: ** result matched **
+06/12/2025 10:29:53 AM: INFO: ** getting result **
+06/12/2025 10:29:54 AM: INFO: ** Verifying result **
+06/12/2025 10:29:54 AM: INFO: ** result matched **
+06/12/2025 10:29:54 AM: INFO: ***logging out the app***
+06/12/2025 10:30:39 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:30:39 AM: INFO: ***invoking the browser***
+06/12/2025 10:30:40 AM: INFO: ***browser invoked***
+06/12/2025 10:30:40 AM: INFO: ** getting total rows **
+06/12/2025 10:30:40 AM: INFO: ** getting total columns **
+06/12/2025 10:30:41 AM: INFO: ** creating all page objects **
+06/12/2025 10:30:41 AM: INFO: ** ddt for loop **
+06/12/2025 10:30:44 AM: INFO: ** getting result **
+06/12/2025 10:30:45 AM: INFO: ** Verifying result **
+06/12/2025 10:30:45 AM: INFO: ** result matched **
+06/12/2025 10:30:46 AM: INFO: ** getting result **
+06/12/2025 10:30:51 AM: INFO: ** Verifying result **
+06/12/2025 10:30:51 AM: INFO: ** result matched **
+06/12/2025 10:30:53 AM: INFO: ** getting result **
+06/12/2025 10:30:58 AM: INFO: ** Verifying result **
+06/12/2025 10:30:58 AM: INFO: ** result matched **
+06/12/2025 10:30:59 AM: INFO: ** getting result **
+06/12/2025 10:30:59 AM: INFO: ** Verifying result **
+06/12/2025 10:30:59 AM: INFO: ** result matched **
+06/12/2025 10:31:00 AM: INFO: ***logging out the app***
+06/12/2025 10:34:57 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:34:57 AM: INFO: ***invoking the browser***
+06/12/2025 10:34:58 AM: INFO: ***browser invoked***
+06/12/2025 10:34:58 AM: INFO: ** getting total rows **
+06/12/2025 10:34:58 AM: INFO: ** getting total columns **
+06/12/2025 10:34:59 AM: INFO: ** creating all page objects **
+06/12/2025 10:34:59 AM: INFO: ** ddt for loop **
+06/12/2025 10:35:03 AM: INFO: ** getting result **
+06/12/2025 10:35:03 AM: INFO: ** Verifying result **
+06/12/2025 10:35:03 AM: INFO: ** result matched **
+06/12/2025 10:35:04 AM: INFO: ** getting result **
+06/12/2025 10:35:09 AM: INFO: ** Verifying result **
+06/12/2025 10:35:09 AM: INFO: ** result matched **
+06/12/2025 10:35:10 AM: INFO: ** getting result **
+06/12/2025 10:35:15 AM: INFO: ** Verifying result **
+06/12/2025 10:35:15 AM: INFO: ** result matched **
+06/12/2025 10:35:17 AM: INFO: ** getting result **
+06/12/2025 10:35:17 AM: INFO: ** Verifying result **
+06/12/2025 10:35:17 AM: INFO: ** result matched **
+06/12/2025 10:35:18 AM: INFO: ***logging out the app***
+06/12/2025 10:35:26 AM: INFO: ***successfully logged out***
+06/12/2025 10:35:26 AM: INFO: ***closing the browser***
+06/12/2025 10:35:26 AM: INFO: ***browser closed***
+06/12/2025 10:36:41 AM: INFO: ***invoking the browser***
+06/12/2025 10:36:42 AM: INFO: ***browser invoked***
+06/12/2025 10:36:42 AM: INFO: **---TC001 Account Registration started----**
+06/12/2025 10:36:42 AM: INFO: **---Launching Application----**
+06/12/2025 10:36:45 AM: INFO: **---clicking on Register link----**
+06/12/2025 10:36:46 AM: INFO: **---Entering basic details----**
+06/12/2025 10:36:46 AM: INFO: **---clicking on Registration button----**
+06/12/2025 10:36:47 AM: INFO: **---result msg is matched----**
+06/12/2025 10:36:47 AM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 10:36:47 AM: INFO: ***logging out the app***
+06/12/2025 10:36:51 AM: INFO: ***successfully logged out***
+06/12/2025 10:36:51 AM: INFO: ***closing the browser***
+06/12/2025 10:36:51 AM: INFO: ***browser closed***
+06/12/2025 10:36:57 AM: INFO: ***---Login is started---***
+06/12/2025 10:36:57 AM: INFO: ***invoking the browser***
+06/12/2025 10:36:58 AM: INFO: ***browser invoked***
+06/12/2025 10:36:58 AM: INFO: ***---Launching browser window---***
+06/12/2025 10:36:59 AM: INFO: ***---Launching Landing Page---***
+06/12/2025 10:37:02 AM: INFO: ***---Launching Login Page---***
+06/12/2025 10:37:02 AM: INFO: ***---Launching Home Page---***
+06/12/2025 10:37:03 AM: INFO: ***---LLogin function is completed---***
+06/12/2025 10:37:03 AM: INFO: ***logging out the app***
+06/12/2025 10:37:07 AM: INFO: ***successfully logged out***
+06/12/2025 10:37:07 AM: INFO: ***closing the browser***
+06/12/2025 10:37:07 AM: INFO: ***browser closed***
+06/12/2025 10:37:53 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:37:53 AM: INFO: ***invoking the browser***
+06/12/2025 10:37:54 AM: INFO: ***browser invoked***
+06/12/2025 10:37:54 AM: INFO: ***hitting url in browser***
+06/12/2025 10:37:59 AM: INFO: ***clicked on login link***
+06/12/2025 10:38:01 AM: INFO: ***clicked on login button***
+06/12/2025 10:38:01 AM: INFO: ** login to application**
+06/12/2025 10:38:01 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:38:01 AM: INFO: ** selected required product name** **
+06/12/2025 10:38:01 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:38:01 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:38:01 AM: INFO: ***logging out the app***
+06/12/2025 10:38:05 AM: INFO: ***successfully logged out***
+06/12/2025 10:38:05 AM: INFO: ***closing the browser***
+06/12/2025 10:38:05 AM: INFO: ***browser closed***
+06/12/2025 10:38:22 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:38:22 AM: INFO: ***invoking the browser***
+06/12/2025 10:38:23 AM: INFO: ***browser invoked***
+06/12/2025 10:38:23 AM: INFO: ***hitting url in browser***
+06/12/2025 10:38:27 AM: INFO: ***clicked on login link***
+06/12/2025 10:38:27 AM: INFO: ***clicked on login button***
+06/12/2025 10:38:27 AM: INFO: ** login to application**
+06/12/2025 10:38:27 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:38:28 AM: INFO: ** selected required product name** **
+06/12/2025 10:38:28 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:38:29 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:38:29 AM: INFO: ***logging out the app***
+06/12/2025 10:38:33 AM: INFO: ***successfully logged out***
+06/12/2025 10:38:33 AM: INFO: ***closing the browser***
+06/12/2025 10:38:33 AM: INFO: ***browser closed***
+06/12/2025 10:38:44 AM: INFO: ***---Login is started---***
+06/12/2025 10:38:44 AM: INFO: ** Login DDT testing started **
+06/12/2025 10:38:44 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:38:44 AM: INFO: ***invoking the browser***
+06/12/2025 10:38:45 AM: INFO: ***browser invoked***
+06/12/2025 10:38:45 AM: INFO: **---TC001 Account Registration started----**
+06/12/2025 10:38:45 AM: INFO: **---Launching Application----**
+06/12/2025 10:38:48 AM: INFO: **---clicking on Register link----**
+06/12/2025 10:38:48 AM: INFO: **---Entering basic details----**
+06/12/2025 10:38:49 AM: INFO: **---clicking on Registration button----**
+06/12/2025 10:38:50 AM: INFO: **---result msg is matched----**
+06/12/2025 10:38:50 AM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 10:38:50 AM: INFO: ***logging out the app***
+06/12/2025 10:38:53 AM: INFO: ***successfully logged out***
+06/12/2025 10:38:53 AM: INFO: ***closing the browser***
+06/12/2025 10:38:53 AM: INFO: ***browser closed***
+06/12/2025 10:38:53 AM: INFO: ***invoking the browser***
+06/12/2025 10:38:54 AM: INFO: ***browser invoked***
+06/12/2025 10:38:54 AM: INFO: ***---Launching browser window---***
+06/12/2025 10:38:55 AM: INFO: ***---Launching Landing Page---***
+06/12/2025 10:38:58 AM: INFO: ***---Launching Login Page---***
+06/12/2025 10:38:58 AM: INFO: ***---Launching Home Page---***
+06/12/2025 10:38:59 AM: INFO: ***---LLogin function is completed---***
+06/12/2025 10:38:59 AM: INFO: ***logging out the app***
+06/12/2025 10:39:03 AM: INFO: ***successfully logged out***
+06/12/2025 10:39:03 AM: INFO: ***closing the browser***
+06/12/2025 10:39:03 AM: INFO: ***browser closed***
+06/12/2025 10:39:03 AM: INFO: ***invoking the browser***
+06/12/2025 10:39:04 AM: INFO: ***browser invoked***
+06/12/2025 10:39:04 AM: INFO: ** getting total rows **
+06/12/2025 10:39:04 AM: INFO: ** getting total columns **
+06/12/2025 10:39:05 AM: INFO: ** creating all page objects **
+06/12/2025 10:39:05 AM: INFO: ** ddt for loop **
+06/12/2025 10:39:08 AM: INFO: ** getting result **
+06/12/2025 10:39:09 AM: INFO: ** Verifying result **
+06/12/2025 10:39:09 AM: INFO: ** result matched **
+06/12/2025 10:39:10 AM: INFO: ** getting result **
+06/12/2025 10:39:15 AM: INFO: ** Verifying result **
+06/12/2025 10:39:15 AM: INFO: ** result matched **
+06/12/2025 10:39:16 AM: INFO: ** getting result **
+06/12/2025 10:39:21 AM: INFO: ** Verifying result **
+06/12/2025 10:39:21 AM: INFO: ** result matched **
+06/12/2025 10:39:22 AM: INFO: ** getting result **
+06/12/2025 10:39:23 AM: INFO: ** Verifying result **
+06/12/2025 10:39:23 AM: INFO: ** result matched **
+06/12/2025 10:39:24 AM: INFO: ***logging out the app***
+06/12/2025 10:39:32 AM: INFO: ***successfully logged out***
+06/12/2025 10:39:32 AM: INFO: ***closing the browser***
+06/12/2025 10:39:32 AM: INFO: ***browser closed***
+06/12/2025 10:39:32 AM: INFO: ***invoking the browser***
+06/12/2025 10:39:33 AM: INFO: ***browser invoked***
+06/12/2025 10:39:33 AM: INFO: ***hitting url in browser***
+06/12/2025 10:39:37 AM: INFO: ***clicked on login link***
+06/12/2025 10:39:37 AM: INFO: ***clicked on login button***
+06/12/2025 10:39:37 AM: INFO: ** login to application**
+06/12/2025 10:39:37 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:39:38 AM: INFO: ** selected required product name** **
+06/12/2025 10:39:38 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:39:39 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:39:39 AM: INFO: ***logging out the app***
+06/12/2025 10:39:43 AM: INFO: ***successfully logged out***
+06/12/2025 10:39:43 AM: INFO: ***closing the browser***
+06/12/2025 10:39:43 AM: INFO: ***browser closed***
+06/12/2025 10:39:43 AM: INFO: ***invoking the browser***
+06/12/2025 10:39:44 AM: INFO: ***browser invoked***
+06/12/2025 10:39:44 AM: INFO: ***hitting url in browser***
+06/12/2025 10:39:48 AM: INFO: ***clicked on login link***
+06/12/2025 10:39:49 AM: INFO: ***clicked on login button***
+06/12/2025 10:39:59 AM: INFO: ** clicked on the cart **
+06/12/2025 10:40:06 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:40:06 AM: INFO: ***logging out the app***
+06/12/2025 10:40:10 AM: INFO: ***successfully logged out***
+06/12/2025 10:40:10 AM: INFO: ***closing the browser***
+06/12/2025 10:40:10 AM: INFO: ***browser closed***
+06/12/2025 10:41:25 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:41:25 AM: INFO: ***invoking the browser***
+06/12/2025 10:41:26 AM: INFO: ***browser invoked***
+06/12/2025 10:41:26 AM: INFO: ***hitting url in browser***
+06/12/2025 10:41:30 AM: INFO: ***clicked on login link***
+06/12/2025 10:41:31 AM: INFO: ***clicked on login button***
+06/12/2025 10:41:31 AM: INFO: ** login to application**
+06/12/2025 10:41:31 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:41:31 AM: INFO: ** selected required product name** **
+06/12/2025 10:41:31 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:41:31 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:41:31 AM: INFO: ***logging out the app***
+06/12/2025 10:41:36 AM: INFO: ***successfully logged out***
+06/12/2025 10:41:36 AM: INFO: ***closing the browser***
+06/12/2025 10:41:36 AM: INFO: ***browser closed***
+06/12/2025 10:45:41 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:45:41 AM: INFO: ***invoking the browser***
+06/12/2025 10:45:42 AM: INFO: ***browser invoked***
+06/12/2025 10:45:42 AM: INFO: ***hitting url in browser***
+06/12/2025 10:45:45 AM: INFO: ***clicked on login link***
+06/12/2025 10:45:46 AM: INFO: ***clicked on login button***
+06/12/2025 10:45:46 AM: INFO: ** login to application**
+06/12/2025 10:45:46 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:45:46 AM: INFO: ** selected required product name** **
+06/12/2025 10:45:52 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:49:31 AM: INFO: ***logging out the app***
+06/12/2025 10:49:34 AM: INFO: ***successfully logged out***
+06/12/2025 10:49:34 AM: INFO: ***closing the browser***
+06/12/2025 10:49:34 AM: INFO: ***browser closed***
+06/12/2025 10:49:48 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:49:48 AM: INFO: ***invoking the browser***
+06/12/2025 10:49:49 AM: INFO: ***browser invoked***
+06/12/2025 10:49:49 AM: INFO: ***hitting url in browser***
+06/12/2025 10:49:53 AM: INFO: ***clicked on login link***
+06/12/2025 10:49:54 AM: INFO: ***clicked on login button***
+06/12/2025 10:49:54 AM: INFO: ** login to application**
+06/12/2025 10:49:54 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:49:57 AM: INFO: ** selected required product name** **
+06/12/2025 10:50:40 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:54:17 AM: INFO: ***logging out the app***
+06/12/2025 10:54:20 AM: INFO: ***successfully logged out***
+06/12/2025 10:54:20 AM: INFO: ***closing the browser***
+06/12/2025 10:54:20 AM: INFO: ***browser closed***
+06/12/2025 10:54:34 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:54:34 AM: INFO: ***invoking the browser***
+06/12/2025 10:54:36 AM: INFO: ***browser invoked***
+06/12/2025 10:54:36 AM: INFO: ***hitting url in browser***
+06/12/2025 10:54:39 AM: INFO: ***clicked on login link***
+06/12/2025 10:54:39 AM: INFO: ***clicked on login button***
+06/12/2025 10:54:39 AM: INFO: ** login to application**
+06/12/2025 10:54:39 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 10:54:49 AM: INFO: ** selected required product name** **
+06/12/2025 10:55:15 AM: INFO: ** Adding product to the cart **
+06/12/2025 10:55:33 AM: INFO: ** Verifying the cart product name **
+06/12/2025 10:55:48 AM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 10:55:56 AM: INFO: ** performing action checkout page**
+06/12/2025 10:55:57 AM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 10:56:12 AM: INFO: ***logging out the app***
+06/12/2025 10:56:16 AM: INFO: ***successfully logged out***
+06/12/2025 10:56:16 AM: INFO: ***closing the browser***
+06/12/2025 10:56:17 AM: INFO: ***browser closed***
+06/12/2025 10:59:57 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 10:59:57 AM: INFO: ***invoking the browser***
+06/12/2025 10:59:58 AM: INFO: ***browser invoked***
+06/12/2025 10:59:58 AM: INFO: ***hitting url in browser***
+06/12/2025 11:00:02 AM: INFO: ***clicked on login link***
+06/12/2025 11:00:02 AM: INFO: ***clicked on login button***
+06/12/2025 11:00:02 AM: INFO: ** login to application**
+06/12/2025 11:00:02 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 11:00:03 AM: INFO: ** selected required product name** **
+06/12/2025 11:00:04 AM: INFO: ** Adding product to the cart **
+06/12/2025 11:00:05 AM: INFO: ** Verifying the cart product name **
+06/12/2025 11:00:10 AM: INFO: ***logging out the app***
+06/12/2025 11:00:14 AM: INFO: ***successfully logged out***
+06/12/2025 11:00:14 AM: INFO: ***closing the browser***
+06/12/2025 11:00:14 AM: INFO: ***browser closed***
+06/12/2025 11:00:58 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 11:00:58 AM: INFO: ***invoking the browser***
+06/12/2025 11:00:59 AM: INFO: ***browser invoked***
+06/12/2025 11:00:59 AM: INFO: ***hitting url in browser***
+06/12/2025 11:01:03 AM: INFO: ***clicked on login link***
+06/12/2025 11:01:04 AM: INFO: ***clicked on login button***
+06/12/2025 11:01:04 AM: INFO: ** login to application**
+06/12/2025 11:01:04 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 11:01:07 AM: INFO: ** selected required product name** **
+06/12/2025 11:01:15 AM: INFO: ** Adding product to the cart **
+06/12/2025 11:01:16 AM: INFO: ** Verifying the cart product name **
+06/12/2025 11:01:16 AM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 11:01:16 AM: INFO: ** performing action checkout page**
+06/12/2025 11:01:17 AM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 11:01:20 AM: INFO: ***logging out the app***
+06/12/2025 11:01:24 AM: INFO: ***successfully logged out***
+06/12/2025 11:01:24 AM: INFO: ***closing the browser***
+06/12/2025 11:01:24 AM: INFO: ***browser closed***
+06/12/2025 11:01:34 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 11:01:34 AM: INFO: ***invoking the browser***
+06/12/2025 11:01:35 AM: INFO: ***browser invoked***
+06/12/2025 11:01:35 AM: INFO: ***hitting url in browser***
+06/12/2025 11:01:39 AM: INFO: ***clicked on login link***
+06/12/2025 11:01:39 AM: INFO: ***clicked on login button***
+06/12/2025 11:01:39 AM: INFO: ** login to application**
+06/12/2025 11:01:39 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 11:01:43 AM: INFO: ** selected required product name** **
+06/12/2025 11:01:51 AM: INFO: ** Adding product to the cart **
+06/12/2025 11:01:51 AM: INFO: ** Verifying the cart product name **
+06/12/2025 11:01:52 AM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 11:01:52 AM: INFO: ** performing action checkout page**
+06/12/2025 11:01:54 AM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 11:01:58 AM: INFO: ***logging out the app***
+06/12/2025 11:02:02 AM: INFO: ***successfully logged out***
+06/12/2025 11:02:02 AM: INFO: ***closing the browser***
+06/12/2025 11:02:02 AM: INFO: ***browser closed***
+06/12/2025 11:02:18 AM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 11:02:18 AM: INFO: ***invoking the browser***
+06/12/2025 11:02:19 AM: INFO: ***browser invoked***
+06/12/2025 11:02:19 AM: INFO: ***hitting url in browser***
+06/12/2025 11:02:24 AM: INFO: ***clicked on login link***
+06/12/2025 11:02:24 AM: INFO: ***clicked on login button***
+06/12/2025 11:02:24 AM: INFO: ** login to application**
+06/12/2025 11:02:24 AM: INFO: ** fetching all product names in homepage **
+06/12/2025 11:02:28 AM: INFO: ** selected required product name** **
+06/12/2025 11:02:36 AM: INFO: ** Adding product to the cart **
+06/12/2025 11:02:36 AM: INFO: ** Verifying the cart product name **
+06/12/2025 11:02:36 AM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 11:02:38 AM: INFO: ** performing action checkout page**
+06/12/2025 11:02:38 AM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 11:02:43 AM: INFO: ***logging out the app***
+06/12/2025 11:02:47 AM: INFO: ***successfully logged out***
+06/12/2025 11:02:47 AM: INFO: ***closing the browser***
+06/12/2025 11:02:47 AM: INFO: ***browser closed***
+06/12/2025 12:37:27 PM: INFO: ***invoking the browser***
+06/12/2025 12:37:29 PM: INFO: ***browser invoked***
+06/12/2025 12:37:29 PM: INFO: **---TC001 Account Registration started----**
+06/12/2025 12:37:29 PM: INFO: **---Launching Application----**
+06/12/2025 12:37:33 PM: INFO: **---clicking on Register link----**
+06/12/2025 12:37:33 PM: INFO: **---Entering basic details----**
+06/12/2025 12:37:33 PM: INFO: **---clicking on Registration button----**
+06/12/2025 12:37:34 PM: INFO: **---result msg is matched----**
+06/12/2025 12:37:34 PM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 12:37:34 PM: INFO: ***logging out the app***
+06/12/2025 12:37:38 PM: INFO: ***successfully logged out***
+06/12/2025 12:37:38 PM: INFO: ***closing the browser***
+06/12/2025 12:37:38 PM: INFO: ***browser closed***
+06/12/2025 12:37:45 PM: INFO: ***---Login is started---***
+06/12/2025 12:37:45 PM: INFO: ***invoking the browser***
+06/12/2025 12:37:46 PM: INFO: ***browser invoked***
+06/12/2025 12:37:46 PM: INFO: ***---Launching browser window---***
+06/12/2025 12:37:47 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 12:37:49 PM: INFO: ***---Launching Login Page---***
+06/12/2025 12:37:50 PM: INFO: ***---Launching Home Page---***
+06/12/2025 12:37:50 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 12:37:50 PM: INFO: ***logging out the app***
+06/12/2025 12:37:54 PM: INFO: ***successfully logged out***
+06/12/2025 12:37:54 PM: INFO: ***closing the browser***
+06/12/2025 12:37:54 PM: INFO: ***browser closed***
+06/12/2025 12:38:00 PM: INFO: ** Login DDT testing started **
+06/12/2025 12:38:00 PM: INFO: ***invoking the browser***
+06/12/2025 12:38:01 PM: INFO: ***browser invoked***
+06/12/2025 12:38:01 PM: INFO: ** getting total rows **
+06/12/2025 12:38:01 PM: INFO: ** getting total columns **
+06/12/2025 12:38:02 PM: INFO: ** creating all page objects **
+06/12/2025 12:38:02 PM: INFO: ** ddt for loop **
+06/12/2025 12:38:04 PM: INFO: ** getting result **
+06/12/2025 12:38:05 PM: INFO: ** Verifying result **
+06/12/2025 12:38:05 PM: INFO: ** result matched **
+06/12/2025 12:38:07 PM: INFO: ** getting result **
+06/12/2025 12:38:12 PM: INFO: ** Verifying result **
+06/12/2025 12:38:12 PM: INFO: ** result matched **
+06/12/2025 12:38:13 PM: INFO: ** getting result **
+06/12/2025 12:38:18 PM: INFO: ** Verifying result **
+06/12/2025 12:38:18 PM: INFO: ** result matched **
+06/12/2025 12:38:20 PM: INFO: ** getting result **
+06/12/2025 12:38:20 PM: INFO: ** Verifying result **
+06/12/2025 12:38:20 PM: INFO: ** result matched **
+06/12/2025 12:38:21 PM: INFO: ***logging out the app***
+06/12/2025 12:38:29 PM: INFO: ***successfully logged out***
+06/12/2025 12:38:29 PM: INFO: ***closing the browser***
+06/12/2025 12:38:29 PM: INFO: ***browser closed***
+06/12/2025 12:38:43 PM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 12:38:43 PM: INFO: ***invoking the browser***
+06/12/2025 12:38:44 PM: INFO: ***browser invoked***
+06/12/2025 12:38:44 PM: INFO: ***hitting url in browser***
+06/12/2025 12:38:49 PM: INFO: ***clicked on login link***
+06/12/2025 12:38:49 PM: INFO: ***clicked on login button***
+06/12/2025 12:38:49 PM: INFO: ** login to application**
+06/12/2025 12:38:49 PM: INFO: ** fetching all product names in homepage **
+06/12/2025 12:38:52 PM: INFO: ** selected required product name** **
+06/12/2025 12:39:00 PM: INFO: ** Adding product to the cart **
+06/12/2025 12:39:01 PM: INFO: ** Verifying the cart product name **
+06/12/2025 12:39:01 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 12:39:03 PM: INFO: ** performing action checkout page**
+06/12/2025 12:39:03 PM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 12:39:08 PM: INFO: ***logging out the app***
+06/12/2025 12:39:12 PM: INFO: ***successfully logged out***
+06/12/2025 12:39:12 PM: INFO: ***closing the browser***
+06/12/2025 12:39:12 PM: INFO: ***browser closed***
+06/12/2025 12:39:19 PM: INFO: ***invoking the browser***
+06/12/2025 12:39:20 PM: INFO: ***browser invoked***
+06/12/2025 12:39:20 PM: INFO: ***hitting url in browser***
+06/12/2025 12:39:24 PM: INFO: ***clicked on login link***
+06/12/2025 12:39:24 PM: INFO: ***clicked on login button***
+06/12/2025 12:39:35 PM: INFO: ** clicked on the cart **
+06/12/2025 12:39:42 PM: INFO: ** Verifying the cart product name **
+06/12/2025 12:39:42 PM: INFO: ***logging out the app***
+06/12/2025 12:39:46 PM: INFO: ***successfully logged out***
+06/12/2025 12:39:46 PM: INFO: ***closing the browser***
+06/12/2025 12:39:46 PM: INFO: ***browser closed***
+06/12/2025 12:55:49 PM: INFO: ***invoking the browser***
+06/12/2025 12:55:50 PM: INFO: ***browser invoked***
+06/12/2025 12:55:50 PM: INFO: **---TC001 Account Registration started----**
+06/12/2025 12:55:50 PM: INFO: **---Launching Application----**
+06/12/2025 12:55:53 PM: INFO: **---clicking on Register link----**
+06/12/2025 12:55:54 PM: INFO: **---Entering basic details----**
+06/12/2025 12:55:54 PM: INFO: **---clicking on Registration button----**
+06/12/2025 12:55:55 PM: INFO: **---result msg is matched----**
+06/12/2025 12:55:55 PM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 12:55:55 PM: INFO: ***logging out the app***
+06/12/2025 12:55:58 PM: INFO: ***successfully logged out***
+06/12/2025 12:55:58 PM: INFO: ***closing the browser***
+06/12/2025 12:55:58 PM: INFO: ***browser closed***
+06/12/2025 12:56:03 PM: INFO: ***---Login is started---***
+06/12/2025 12:56:03 PM: INFO: ***invoking the browser***
+06/12/2025 12:56:04 PM: INFO: ***browser invoked***
+06/12/2025 12:56:04 PM: INFO: ***---Launching browser window---***
+06/12/2025 12:56:05 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 12:56:08 PM: INFO: ***---Launching Login Page---***
+06/12/2025 12:56:09 PM: INFO: ***---Launching Home Page---***
+06/12/2025 12:56:09 PM: INFO: ***logging out the app***
+06/12/2025 12:56:12 PM: INFO: ***successfully logged out***
+06/12/2025 12:56:12 PM: INFO: ***closing the browser***
+06/12/2025 12:56:12 PM: INFO: ***browser closed***
+06/12/2025 12:56:58 PM: INFO: ***---Login is started---***
+06/12/2025 12:56:58 PM: INFO: ***invoking the browser***
+06/12/2025 12:56:59 PM: INFO: ***browser invoked***
+06/12/2025 12:56:59 PM: INFO: ***---Launching browser window---***
+06/12/2025 12:57:00 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 12:57:02 PM: INFO: ***---Launching Login Page---***
+06/12/2025 12:57:03 PM: INFO: ***---Launching Home Page---***
+06/12/2025 12:57:04 PM: INFO: ***logging out the app***
+06/12/2025 12:57:07 PM: INFO: ***successfully logged out***
+06/12/2025 12:57:07 PM: INFO: ***closing the browser***
+06/12/2025 12:57:07 PM: INFO: ***browser closed***
+06/12/2025 12:57:59 PM: INFO: ***---Login is started---***
+06/12/2025 12:57:59 PM: INFO: ***invoking the browser***
+06/12/2025 12:58:00 PM: INFO: ***browser invoked***
+06/12/2025 12:58:00 PM: INFO: ***---Launching browser window---***
+06/12/2025 12:58:04 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 12:58:04 PM: INFO: ***---Launching Login Page---***
+06/12/2025 12:58:49 PM: INFO: ***---Launching Home Page---***
+06/12/2025 12:59:24 PM: INFO: ***logging out the app***
+06/12/2025 12:59:28 PM: INFO: ***successfully logged out***
+06/12/2025 12:59:28 PM: INFO: ***closing the browser***
+06/12/2025 12:59:28 PM: INFO: ***browser closed***
+06/12/2025 12:59:42 PM: INFO: ***---Login is started---***
+06/12/2025 12:59:42 PM: INFO: ***invoking the browser***
+06/12/2025 12:59:43 PM: INFO: ***browser invoked***
+06/12/2025 12:59:43 PM: INFO: ***---Launching browser window---***
+06/12/2025 12:59:44 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 12:59:47 PM: INFO: ***---Launching Login Page---***
+06/12/2025 01:00:11 PM: INFO: ***---Launching Home Page---***
+06/12/2025 01:01:15 PM: INFO: ***logging out the app***
+06/12/2025 01:01:18 PM: INFO: ***successfully logged out***
+06/12/2025 01:01:18 PM: INFO: ***closing the browser***
+06/12/2025 01:01:18 PM: INFO: ***browser closed***
+06/12/2025 01:09:27 PM: INFO: ***---Login is started---***
+06/12/2025 01:09:27 PM: INFO: ***invoking the browser***
+06/12/2025 01:09:29 PM: INFO: ***browser invoked***
+06/12/2025 01:09:29 PM: INFO: ***---Launching browser window---***
+06/12/2025 01:09:32 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 01:09:32 PM: INFO: ***---Launching Login Page---***
+06/12/2025 01:09:34 PM: INFO: ***---Launching Home Page---***
+06/12/2025 01:09:35 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 01:09:35 PM: INFO: ***logging out the app***
+06/12/2025 01:09:38 PM: INFO: ***successfully logged out***
+06/12/2025 01:09:38 PM: INFO: ***closing the browser***
+06/12/2025 01:09:38 PM: INFO: ***browser closed***
+06/12/2025 01:09:43 PM: INFO: ***---Login is started---***
+06/12/2025 01:09:43 PM: INFO: ***invoking the browser***
+06/12/2025 01:09:44 PM: INFO: ***browser invoked***
+06/12/2025 01:09:44 PM: INFO: ***---Launching browser window---***
+06/12/2025 01:09:49 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 01:09:49 PM: INFO: ***---Launching Login Page---***
+06/12/2025 01:09:49 PM: INFO: ***---Launching Home Page---***
+06/12/2025 01:09:50 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 01:09:50 PM: INFO: ***logging out the app***
+06/12/2025 01:09:53 PM: INFO: ***successfully logged out***
+06/12/2025 01:09:53 PM: INFO: ***closing the browser***
+06/12/2025 01:09:53 PM: INFO: ***browser closed***
+06/12/2025 01:10:10 PM: INFO: ***---Login is started---***
+06/12/2025 01:10:10 PM: INFO: ***invoking the browser***
+06/12/2025 01:10:11 PM: INFO: ***browser invoked***
+06/12/2025 01:10:11 PM: INFO: ***---Launching browser window---***
+06/12/2025 01:10:14 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 01:10:15 PM: INFO: ***---Launching Login Page---***
+06/12/2025 01:10:15 PM: INFO: ***---Launching Home Page---***
+06/12/2025 01:10:16 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 01:10:16 PM: INFO: ***logging out the app***
+06/12/2025 01:10:19 PM: INFO: ***successfully logged out***
+06/12/2025 01:10:19 PM: INFO: ***closing the browser***
+06/12/2025 01:10:19 PM: INFO: ***browser closed***
+06/12/2025 01:10:52 PM: INFO: ** Login DDT testing started **
+06/12/2025 01:10:52 PM: INFO: ***invoking the browser***
+06/12/2025 01:10:53 PM: INFO: ***browser invoked***
+06/12/2025 01:10:53 PM: INFO: ** getting total rows **
+06/12/2025 01:10:53 PM: INFO: ** getting total columns **
+06/12/2025 01:10:56 PM: INFO: ** creating all page objects **
+06/12/2025 01:10:56 PM: INFO: ** ddt for loop **
+06/12/2025 01:10:57 PM: INFO: ** getting result **
+06/12/2025 01:10:58 PM: INFO: ** Verifying result **
+06/12/2025 01:10:58 PM: INFO: ** result matched **
+06/12/2025 01:10:58 PM: INFO: ***logging out the app***
+06/12/2025 01:11:01 PM: INFO: ***successfully logged out***
+06/12/2025 01:11:01 PM: INFO: ***closing the browser***
+06/12/2025 01:11:01 PM: INFO: ***browser closed***
+06/12/2025 01:12:07 PM: INFO: ** Login DDT testing started **
+06/12/2025 01:12:07 PM: INFO: ***invoking the browser***
+06/12/2025 01:12:08 PM: INFO: ***browser invoked***
+06/12/2025 01:12:08 PM: INFO: ** getting total rows **
+06/12/2025 01:12:08 PM: INFO: ** getting total columns **
+06/12/2025 01:12:09 PM: INFO: ** creating all page objects **
+06/12/2025 01:12:09 PM: INFO: ** ddt for loop **
+06/12/2025 01:12:13 PM: INFO: ** getting result **
+06/12/2025 01:12:13 PM: INFO: ** Verifying result **
+06/12/2025 01:12:13 PM: INFO: ** result matched **
+06/12/2025 01:12:15 PM: INFO: ** getting result **
+06/12/2025 01:12:20 PM: INFO: ** Verifying result **
+06/12/2025 01:12:20 PM: INFO: ** result matched **
+06/12/2025 01:12:21 PM: INFO: ** getting result **
+06/12/2025 01:12:26 PM: INFO: ** Verifying result **
+06/12/2025 01:12:26 PM: INFO: ** result matched **
+06/12/2025 01:12:28 PM: INFO: ** getting result **
+06/12/2025 01:12:28 PM: INFO: ** Verifying result **
+06/12/2025 01:12:28 PM: INFO: ** result matched **
+06/12/2025 01:12:29 PM: INFO: ***logging out the app***
+06/12/2025 01:12:32 PM: INFO: ***successfully logged out***
+06/12/2025 01:12:32 PM: INFO: ***closing the browser***
+06/12/2025 01:12:32 PM: INFO: ***browser closed***
+06/12/2025 01:12:44 PM: INFO: ** Login DDT testing started **
+06/12/2025 01:12:44 PM: INFO: ***invoking the browser***
+06/12/2025 01:12:45 PM: INFO: ***browser invoked***
+06/12/2025 01:12:45 PM: INFO: ** getting total rows **
+06/12/2025 01:12:45 PM: INFO: ** getting total columns **
+06/12/2025 01:12:48 PM: INFO: ** creating all page objects **
+06/12/2025 01:12:48 PM: INFO: ** ddt for loop **
+06/12/2025 01:12:50 PM: INFO: ** getting result **
+06/12/2025 01:12:50 PM: INFO: ** Verifying result **
+06/12/2025 01:12:50 PM: INFO: ** result matched **
+06/12/2025 01:12:51 PM: INFO: ** getting result **
+06/12/2025 01:12:56 PM: INFO: ** Verifying result **
+06/12/2025 01:12:56 PM: INFO: ** result matched **
+06/12/2025 01:12:57 PM: INFO: ** getting result **
+06/12/2025 01:13:02 PM: INFO: ** Verifying result **
+06/12/2025 01:13:02 PM: INFO: ** result matched **
+06/12/2025 01:13:04 PM: INFO: ** getting result **
+06/12/2025 01:13:04 PM: INFO: ** Verifying result **
+06/12/2025 01:13:04 PM: INFO: ** result matched **
+06/12/2025 01:13:05 PM: INFO: ***logging out the app***
+06/12/2025 01:13:08 PM: INFO: ***successfully logged out***
+06/12/2025 01:13:08 PM: INFO: ***closing the browser***
+06/12/2025 01:13:08 PM: INFO: ***browser closed***
+06/12/2025 01:14:20 PM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 01:14:20 PM: INFO: ***invoking the browser***
+06/12/2025 01:14:21 PM: INFO: ***browser invoked***
+06/12/2025 01:14:21 PM: INFO: ***hitting url in browser***
+06/12/2025 01:14:25 PM: INFO: ***clicked on login link***
+06/12/2025 01:14:25 PM: INFO: ***clicked on login button***
+06/12/2025 01:14:25 PM: INFO: ** login to application**
+06/12/2025 01:14:25 PM: INFO: ** fetching all product names in homepage **
+06/12/2025 01:14:29 PM: INFO: ** selected required product name** **
+06/12/2025 01:14:36 PM: INFO: ** Adding product to the cart **
+06/12/2025 01:14:37 PM: INFO: ** Verifying the cart product name **
+06/12/2025 01:14:37 PM: INFO: ***logging out the app***
+06/12/2025 01:14:40 PM: INFO: ***successfully logged out***
+06/12/2025 01:14:40 PM: INFO: ***closing the browser***
+06/12/2025 01:14:40 PM: INFO: ***browser closed***
+06/12/2025 01:14:49 PM: INFO: ***invoking the browser***
+06/12/2025 01:14:50 PM: INFO: ***browser invoked***
+06/12/2025 01:14:50 PM: INFO: ***hitting url in browser***
+06/12/2025 01:14:54 PM: INFO: ***clicked on login link***
+06/12/2025 01:14:54 PM: INFO: ***clicked on login button***
+06/12/2025 01:14:54 PM: INFO: ***logging out the app***
+06/12/2025 01:14:57 PM: INFO: ***successfully logged out***
+06/12/2025 01:14:57 PM: INFO: ***closing the browser***
+06/12/2025 01:14:57 PM: INFO: ***browser closed***
+06/12/2025 02:33:56 PM: INFO: ***invoking the browser***
+06/12/2025 02:33:58 PM: INFO: ***browser invoked***
+06/12/2025 02:33:58 PM: INFO: ***hitting url in browser***
+06/12/2025 02:34:03 PM: INFO: ***clicked on login link***
+06/12/2025 02:34:03 PM: INFO: ***clicked on login button***
+06/12/2025 02:34:03 PM: INFO: ***logging out the app***
+06/12/2025 02:34:06 PM: INFO: ***successfully logged out***
+06/12/2025 02:34:06 PM: INFO: ***closing the browser***
+06/12/2025 02:34:06 PM: INFO: ***browser closed***
+06/12/2025 02:34:45 PM: INFO: ***invoking the browser***
+06/12/2025 02:34:46 PM: INFO: ***browser invoked***
+06/12/2025 02:34:46 PM: INFO: ***hitting url in browser***
+06/12/2025 02:34:51 PM: INFO: ***clicked on login link***
+06/12/2025 02:34:51 PM: INFO: ***clicked on login button***
+06/12/2025 02:34:51 PM: INFO: ***logging out the app***
+06/12/2025 02:34:54 PM: INFO: ***successfully logged out***
+06/12/2025 02:34:54 PM: INFO: ***closing the browser***
+06/12/2025 02:34:54 PM: INFO: ***browser closed***
+06/12/2025 02:36:16 PM: INFO: ***invoking the browser***
+06/12/2025 02:36:17 PM: INFO: ***browser invoked***
+06/12/2025 02:36:17 PM: INFO: ***hitting url in browser***
+06/12/2025 02:36:21 PM: INFO: ***clicked on login link***
+06/12/2025 02:36:22 PM: INFO: ***clicked on login button***
+06/12/2025 02:36:25 PM: INFO: ***logging out the app***
+06/12/2025 02:36:28 PM: INFO: ***successfully logged out***
+06/12/2025 02:36:28 PM: INFO: ***closing the browser***
+06/12/2025 02:36:28 PM: INFO: ***browser closed***
+06/12/2025 02:43:58 PM: INFO: ***invoking the browser***
+06/12/2025 02:43:59 PM: INFO: ***browser invoked***
+06/12/2025 02:43:59 PM: INFO: ***hitting url in browser***
+06/12/2025 02:44:03 PM: INFO: ***clicked on login link***
+06/12/2025 02:44:03 PM: INFO: ***clicked on login button***
+06/12/2025 02:44:07 PM: INFO: ***logging out the app***
+06/12/2025 02:44:10 PM: INFO: ***successfully logged out***
+06/12/2025 02:44:10 PM: INFO: ***closing the browser***
+06/12/2025 02:44:10 PM: INFO: ***browser closed***
+06/12/2025 02:45:41 PM: INFO: ***invoking the browser***
+06/12/2025 02:45:43 PM: INFO: ***browser invoked***
+06/12/2025 02:45:43 PM: INFO: ***hitting url in browser***
+06/12/2025 02:45:46 PM: INFO: ***clicked on login link***
+06/12/2025 02:45:46 PM: INFO: ***clicked on login button***
+06/12/2025 02:45:50 PM: INFO: ***logging out the app***
+06/12/2025 02:45:53 PM: INFO: ***successfully logged out***
+06/12/2025 02:45:53 PM: INFO: ***closing the browser***
+06/12/2025 02:45:53 PM: INFO: ***browser closed***
+06/12/2025 02:46:20 PM: INFO: ***invoking the browser***
+06/12/2025 02:46:21 PM: INFO: ***browser invoked***
+06/12/2025 02:46:21 PM: INFO: ***hitting url in browser***
+06/12/2025 02:46:25 PM: INFO: ***clicked on login link***
+06/12/2025 02:46:26 PM: INFO: ***clicked on login button***
+06/12/2025 02:46:29 PM: INFO: ***logging out the app***
+06/12/2025 02:46:32 PM: INFO: ***successfully logged out***
+06/12/2025 02:46:32 PM: INFO: ***closing the browser***
+06/12/2025 02:46:32 PM: INFO: ***browser closed***
+06/12/2025 02:49:07 PM: INFO: ***invoking the browser***
+06/12/2025 02:49:08 PM: INFO: ***browser invoked***
+06/12/2025 02:49:08 PM: INFO: ***hitting url in browser***
+06/12/2025 02:49:13 PM: INFO: ***clicked on login link***
+06/12/2025 02:49:13 PM: INFO: ***clicked on login button***
+06/12/2025 02:49:17 PM: INFO: ***logging out the app***
+06/12/2025 02:49:20 PM: INFO: ***successfully logged out***
+06/12/2025 02:49:20 PM: INFO: ***closing the browser***
+06/12/2025 02:49:20 PM: INFO: ***browser closed***
+06/12/2025 02:50:45 PM: INFO: ***invoking the browser***
+06/12/2025 02:50:46 PM: INFO: ***browser invoked***
+06/12/2025 02:50:46 PM: INFO: ***hitting url in browser***
+06/12/2025 02:50:51 PM: INFO: ***clicked on login link***
+06/12/2025 02:50:51 PM: INFO: ***clicked on login button***
+06/12/2025 02:50:55 PM: INFO: ***logging out the app***
+06/12/2025 02:50:58 PM: INFO: ***successfully logged out***
+06/12/2025 02:50:58 PM: INFO: ***closing the browser***
+06/12/2025 02:50:58 PM: INFO: ***browser closed***
+06/12/2025 02:52:44 PM: INFO: ***invoking the browser***
+06/12/2025 02:52:45 PM: INFO: ***browser invoked***
+06/12/2025 02:52:45 PM: INFO: ***hitting url in browser***
+06/12/2025 02:52:50 PM: INFO: ***clicked on login link***
+06/12/2025 02:52:50 PM: INFO: ***clicked on login button***
+06/12/2025 02:53:48 PM: INFO: ***logging out the app***
+06/12/2025 02:53:51 PM: INFO: ***successfully logged out***
+06/12/2025 02:53:51 PM: INFO: ***closing the browser***
+06/12/2025 02:53:51 PM: INFO: ***browser closed***
+06/12/2025 02:54:05 PM: INFO: ***invoking the browser***
+06/12/2025 02:54:07 PM: INFO: ***browser invoked***
+06/12/2025 02:54:07 PM: INFO: ***hitting url in browser***
+06/12/2025 02:54:11 PM: INFO: ***clicked on login link***
+06/12/2025 02:54:11 PM: INFO: ***clicked on login button***
+06/12/2025 02:54:15 PM: INFO: ***logging out the app***
+06/12/2025 02:54:18 PM: INFO: ***successfully logged out***
+06/12/2025 02:54:18 PM: INFO: ***closing the browser***
+06/12/2025 02:54:18 PM: INFO: ***browser closed***
+06/12/2025 02:54:21 PM: INFO: ***invoking the browser***
+06/12/2025 02:54:22 PM: INFO: ***browser invoked***
+06/12/2025 02:54:22 PM: INFO: ***hitting url in browser***
+06/12/2025 02:54:26 PM: INFO: ***clicked on login link***
+06/12/2025 02:54:26 PM: INFO: ***clicked on login button***
+06/12/2025 02:54:30 PM: INFO: ***logging out the app***
+06/12/2025 02:54:33 PM: INFO: ***successfully logged out***
+06/12/2025 02:54:33 PM: INFO: ***closing the browser***
+06/12/2025 02:54:33 PM: INFO: ***browser closed***
+06/12/2025 02:57:18 PM: INFO: ***invoking the browser***
+06/12/2025 02:57:19 PM: INFO: ***browser invoked***
+06/12/2025 02:57:19 PM: INFO: ***hitting url in browser***
+06/12/2025 02:57:23 PM: INFO: ***clicked on login link***
+06/12/2025 02:57:24 PM: INFO: ***clicked on login button***
+06/12/2025 02:57:27 PM: INFO: ***logging out the app***
+06/12/2025 02:57:30 PM: INFO: ***successfully logged out***
+06/12/2025 02:57:30 PM: INFO: ***closing the browser***
+06/12/2025 02:57:30 PM: INFO: ***browser closed***
+06/12/2025 02:58:17 PM: INFO: ***invoking the browser***
+06/12/2025 02:58:18 PM: INFO: ***browser invoked***
+06/12/2025 02:58:18 PM: INFO: ***hitting url in browser***
+06/12/2025 02:58:22 PM: INFO: ***clicked on login link***
+06/12/2025 02:58:22 PM: INFO: ***clicked on login button***
+06/12/2025 02:58:25 PM: INFO: ***logging out the app***
+06/12/2025 02:58:29 PM: INFO: ***successfully logged out***
+06/12/2025 02:58:29 PM: INFO: ***closing the browser***
+06/12/2025 02:58:29 PM: INFO: ***browser closed***
+06/12/2025 03:01:52 PM: INFO: ***invoking the browser***
+06/12/2025 03:01:53 PM: INFO: ***browser invoked***
+06/12/2025 03:01:53 PM: INFO: ***hitting url in browser***
+06/12/2025 03:01:57 PM: INFO: ***clicked on login link***
+06/12/2025 03:01:58 PM: INFO: ***clicked on login button***
+06/12/2025 03:02:01 PM: INFO: ***logging out the app***
+06/12/2025 03:02:04 PM: INFO: ***successfully logged out***
+06/12/2025 03:02:04 PM: INFO: ***closing the browser***
+06/12/2025 03:02:04 PM: INFO: ***browser closed***
+06/12/2025 03:31:47 PM: INFO: ***invoking the browser***
+06/12/2025 03:31:48 PM: INFO: ***browser invoked***
+06/12/2025 03:31:48 PM: INFO: ***hitting url in browser***
+06/12/2025 03:31:53 PM: INFO: ***clicked on login link***
+06/12/2025 03:31:54 PM: INFO: ***clicked on login button***
+06/12/2025 03:31:58 PM: INFO: ***logging out the app***
+06/12/2025 03:32:01 PM: INFO: ***successfully logged out***
+06/12/2025 03:32:01 PM: INFO: ***closing the browser***
+06/12/2025 03:32:01 PM: INFO: ***browser closed***
+06/12/2025 03:34:29 PM: INFO: ***invoking the browser***
+06/12/2025 03:34:31 PM: INFO: ***browser invoked***
+06/12/2025 03:34:31 PM: INFO: ***hitting url in browser***
+06/12/2025 03:34:35 PM: INFO: ***clicked on login link***
+06/12/2025 03:34:36 PM: INFO: ***clicked on login button***
+06/12/2025 03:34:36 PM: INFO: ***logging out the app***
+06/12/2025 03:34:39 PM: INFO: ***successfully logged out***
+06/12/2025 03:34:39 PM: INFO: ***closing the browser***
+06/12/2025 03:34:39 PM: INFO: ***browser closed***
+06/12/2025 03:35:12 PM: INFO: ***invoking the browser***
+06/12/2025 03:35:14 PM: INFO: ***browser invoked***
+06/12/2025 03:35:14 PM: INFO: ***hitting url in browser***
+06/12/2025 03:35:17 PM: INFO: ***clicked on login link***
+06/12/2025 03:35:18 PM: INFO: ***clicked on login button***
+06/12/2025 03:35:18 PM: INFO: ***logging out the app***
+06/12/2025 03:35:21 PM: INFO: ***successfully logged out***
+06/12/2025 03:35:21 PM: INFO: ***closing the browser***
+06/12/2025 03:35:21 PM: INFO: ***browser closed***
+06/12/2025 03:37:00 PM: INFO: ***invoking the browser***
+06/12/2025 03:37:01 PM: INFO: ***browser invoked***
+06/12/2025 03:37:01 PM: INFO: ***hitting url in browser***
+06/12/2025 03:37:05 PM: INFO: ***clicked on login link***
+06/12/2025 03:37:05 PM: INFO: ***clicked on login button***
+06/12/2025 03:37:09 PM: INFO: ***logging out the app***
+06/12/2025 03:37:12 PM: INFO: ***successfully logged out***
+06/12/2025 03:37:12 PM: INFO: ***closing the browser***
+06/12/2025 03:37:12 PM: INFO: ***browser closed***
+06/12/2025 03:37:58 PM: INFO: ***invoking the browser***
+06/12/2025 03:37:59 PM: INFO: ***browser invoked***
+06/12/2025 03:37:59 PM: INFO: ***hitting url in browser***
+06/12/2025 03:38:03 PM: INFO: ***clicked on login link***
+06/12/2025 03:38:04 PM: INFO: ***clicked on login button***
+06/12/2025 03:38:12 PM: INFO: ***logging out the app***
+06/12/2025 03:38:16 PM: INFO: ***successfully logged out***
+06/12/2025 03:38:16 PM: INFO: ***closing the browser***
+06/12/2025 03:38:16 PM: INFO: ***browser closed***
+06/12/2025 03:39:36 PM: INFO: ***invoking the browser***
+06/12/2025 03:39:38 PM: INFO: ***browser invoked***
+06/12/2025 03:39:38 PM: INFO: **---TC001 Account Registration started----**
+06/12/2025 03:39:38 PM: INFO: **---Launching Application----**
+06/12/2025 03:39:41 PM: INFO: **---clicking on Register link----**
+06/12/2025 03:39:41 PM: INFO: **---Entering basic details----**
+06/12/2025 03:39:41 PM: INFO: **---clicking on Registration button----**
+06/12/2025 03:39:43 PM: INFO: **---result msg is matched----**
+06/12/2025 03:39:43 PM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 03:39:43 PM: INFO: ***logging out the app***
+06/12/2025 03:39:46 PM: INFO: ***successfully logged out***
+06/12/2025 03:39:46 PM: INFO: ***closing the browser***
+06/12/2025 03:39:47 PM: INFO: ***browser closed***
+06/12/2025 03:39:55 PM: INFO: ***---Login is started---***
+06/12/2025 03:39:55 PM: INFO: ***invoking the browser***
+06/12/2025 03:39:56 PM: INFO: ***browser invoked***
+06/12/2025 03:39:56 PM: INFO: ***---Launching browser window---***
+06/12/2025 03:39:59 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 03:40:00 PM: INFO: ***---Launching Login Page---***
+06/12/2025 03:40:01 PM: INFO: ***---Launching Home Page---***
+06/12/2025 03:40:01 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 03:40:01 PM: INFO: ***logging out the app***
+06/12/2025 03:40:05 PM: INFO: ***successfully logged out***
+06/12/2025 03:40:05 PM: INFO: ***closing the browser***
+06/12/2025 03:40:05 PM: INFO: ***browser closed***
+06/12/2025 03:40:12 PM: INFO: ** Login DDT testing started **
+06/12/2025 03:40:12 PM: INFO: ***invoking the browser***
+06/12/2025 03:40:13 PM: INFO: ***browser invoked***
+06/12/2025 03:40:13 PM: INFO: ** getting total rows **
+06/12/2025 03:40:13 PM: INFO: ** getting total columns **
+06/12/2025 03:40:17 PM: INFO: ** creating all page objects **
+06/12/2025 03:40:17 PM: INFO: ** ddt for loop **
+06/12/2025 03:40:17 PM: INFO: ** getting result **
+06/12/2025 03:40:18 PM: INFO: ** Verifying result **
+06/12/2025 03:40:18 PM: INFO: ** result matched **
+06/12/2025 03:40:18 PM: INFO: ***logging out the app***
+06/12/2025 03:40:22 PM: INFO: ***successfully logged out***
+06/12/2025 03:40:22 PM: INFO: ***closing the browser***
+06/12/2025 03:40:22 PM: INFO: ***browser closed***
+06/12/2025 03:40:30 PM: INFO: ** Login DDT testing started **
+06/12/2025 03:40:30 PM: INFO: ***invoking the browser***
+06/12/2025 03:40:31 PM: INFO: ***browser invoked***
+06/12/2025 03:40:31 PM: INFO: ** getting total rows **
+06/12/2025 03:40:31 PM: INFO: ** getting total columns **
+06/12/2025 03:40:32 PM: INFO: ** creating all page objects **
+06/12/2025 03:40:32 PM: INFO: ** ddt for loop **
+06/12/2025 03:40:35 PM: INFO: ** getting result **
+06/12/2025 03:40:35 PM: INFO: ** Verifying result **
+06/12/2025 03:40:35 PM: INFO: ** result matched **
+06/12/2025 03:40:35 PM: INFO: ***logging out the app***
+06/12/2025 03:40:39 PM: INFO: ***successfully logged out***
+06/12/2025 03:40:39 PM: INFO: ***closing the browser***
+06/12/2025 03:40:39 PM: INFO: ***browser closed***
+06/12/2025 03:40:54 PM: INFO: ** Login DDT testing started **
+06/12/2025 03:40:54 PM: INFO: ***invoking the browser***
+06/12/2025 03:40:55 PM: INFO: ***browser invoked***
+06/12/2025 03:40:55 PM: INFO: ** getting total rows **
+06/12/2025 03:40:55 PM: INFO: ** getting total columns **
+06/12/2025 03:40:58 PM: INFO: ** creating all page objects **
+06/12/2025 03:40:58 PM: INFO: ** ddt for loop **
+06/12/2025 03:40:59 PM: INFO: ** getting result **
+06/12/2025 03:40:59 PM: INFO: ** Verifying result **
+06/12/2025 03:40:59 PM: INFO: ** result matched **
+06/12/2025 03:41:01 PM: INFO: ** getting result **
+06/12/2025 03:41:06 PM: INFO: ** Verifying result **
+06/12/2025 03:41:06 PM: INFO: ** result matched **
+06/12/2025 03:41:07 PM: INFO: ** getting result **
+06/12/2025 03:41:12 PM: INFO: ** Verifying result **
+06/12/2025 03:41:12 PM: INFO: ** result matched **
+06/12/2025 03:41:14 PM: INFO: ** getting result **
+06/12/2025 03:41:14 PM: INFO: ** Verifying result **
+06/12/2025 03:41:14 PM: INFO: ** result matched **
+06/12/2025 03:41:15 PM: INFO: ***logging out the app***
+06/12/2025 03:41:23 PM: INFO: ***successfully logged out***
+06/12/2025 03:41:23 PM: INFO: ***closing the browser***
+06/12/2025 03:41:23 PM: INFO: ***browser closed***
+06/12/2025 03:41:41 PM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 03:41:41 PM: INFO: ***invoking the browser***
+06/12/2025 03:41:42 PM: INFO: ***browser invoked***
+06/12/2025 03:41:42 PM: INFO: ***hitting url in browser***
+06/12/2025 03:41:45 PM: INFO: ***clicked on login link***
+06/12/2025 03:41:46 PM: INFO: ***clicked on login button***
+06/12/2025 03:41:46 PM: INFO: ** login to application**
+06/12/2025 03:41:46 PM: INFO: ** fetching all product names in homepage **
+06/12/2025 03:41:49 PM: INFO: ** selected required product name** **
+06/12/2025 03:41:56 PM: INFO: ** Adding product to the cart **
+06/12/2025 03:41:57 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:41:57 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 03:41:58 PM: INFO: ** performing action checkout page**
+06/12/2025 03:41:58 PM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 03:42:04 PM: INFO: ***logging out the app***
+06/12/2025 03:42:08 PM: INFO: ***successfully logged out***
+06/12/2025 03:42:08 PM: INFO: ***closing the browser***
+06/12/2025 03:42:08 PM: INFO: ***browser closed***
+06/12/2025 03:42:16 PM: INFO: ***invoking the browser***
+06/12/2025 03:42:17 PM: INFO: ***browser invoked***
+06/12/2025 03:42:17 PM: INFO: ***hitting url in browser***
+06/12/2025 03:42:21 PM: INFO: ***clicked on login link***
+06/12/2025 03:42:21 PM: INFO: ***clicked on login button***
+06/12/2025 03:42:36 PM: INFO: ** clicked on the cart **
+06/12/2025 03:42:42 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:42:42 PM: INFO: ***logging out the app***
+06/12/2025 03:42:46 PM: INFO: ***successfully logged out***
+06/12/2025 03:42:46 PM: INFO: ***closing the browser***
+06/12/2025 03:42:46 PM: INFO: ***browser closed***
+06/12/2025 03:44:00 PM: INFO: ***invoking the browser***
+06/12/2025 03:44:01 PM: INFO: ***browser invoked***
+06/12/2025 03:44:01 PM: INFO: ***hitting url in browser***
+06/12/2025 03:44:05 PM: INFO: ***clicked on login link***
+06/12/2025 03:44:05 PM: INFO: ***clicked on login button***
+06/12/2025 03:47:25 PM: INFO: ***logging out the app***
+06/12/2025 03:47:31 PM: INFO: ***invoking the browser***
+06/12/2025 03:47:32 PM: INFO: ***browser invoked***
+06/12/2025 03:47:32 PM: INFO: ***hitting url in browser***
+06/12/2025 03:47:36 PM: INFO: ***clicked on login link***
+06/12/2025 03:47:36 PM: INFO: ***clicked on login button***
+06/12/2025 03:47:37 PM: INFO: ***logging out the app***
+06/12/2025 03:47:41 PM: INFO: ***successfully logged out***
+06/12/2025 03:47:41 PM: INFO: ***closing the browser***
+06/12/2025 03:47:41 PM: INFO: ***browser closed***
+06/12/2025 03:48:21 PM: INFO: ***invoking the browser***
+06/12/2025 03:48:22 PM: INFO: ***browser invoked***
+06/12/2025 03:48:22 PM: INFO: ***hitting url in browser***
+06/12/2025 03:48:26 PM: INFO: ***clicked on login link***
+06/12/2025 03:48:27 PM: INFO: ***clicked on login button***
+06/12/2025 03:48:37 PM: INFO: ** clicked on the cart **
+06/12/2025 03:48:44 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:48:44 PM: INFO: ***logging out the app***
+06/12/2025 03:48:48 PM: INFO: ***successfully logged out***
+06/12/2025 03:48:48 PM: INFO: ***closing the browser***
+06/12/2025 03:48:48 PM: INFO: ***browser closed***
+06/12/2025 03:50:37 PM: INFO: ***invoking the browser***
+06/12/2025 03:50:39 PM: INFO: ***browser invoked***
+06/12/2025 03:50:39 PM: INFO: ***hitting url in browser***
+06/12/2025 03:50:42 PM: INFO: ***clicked on login link***
+06/12/2025 03:50:43 PM: INFO: ***clicked on login button***
+06/12/2025 03:50:53 PM: INFO: ** clicked on the cart **
+06/12/2025 03:51:00 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:51:01 PM: INFO: ***logging out the app***
+06/12/2025 03:51:05 PM: INFO: ***successfully logged out***
+06/12/2025 03:51:05 PM: INFO: ***closing the browser***
+06/12/2025 03:51:05 PM: INFO: ***browser closed***
+06/12/2025 03:51:20 PM: INFO: ***invoking the browser***
+06/12/2025 03:51:21 PM: INFO: ***browser invoked***
+06/12/2025 03:51:21 PM: INFO: **---TC001 Account Registration started----**
+06/12/2025 03:51:21 PM: INFO: **---Launching Application----**
+06/12/2025 03:51:24 PM: INFO: **---clicking on Register link----**
+06/12/2025 03:51:25 PM: INFO: **---Entering basic details----**
+06/12/2025 03:51:25 PM: INFO: **---clicking on Registration button----**
+06/12/2025 03:51:26 PM: INFO: **---result msg is matched----**
+06/12/2025 03:51:26 PM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 03:51:26 PM: INFO: ***logging out the app***
+06/12/2025 03:51:30 PM: INFO: ***successfully logged out***
+06/12/2025 03:51:30 PM: INFO: ***closing the browser***
+06/12/2025 03:51:30 PM: INFO: ***browser closed***
+06/12/2025 03:51:37 PM: INFO: ***---Login is started---***
+06/12/2025 03:51:37 PM: INFO: ** Login DDT testing started **
+06/12/2025 03:51:37 PM: INFO: ** Started add to cart and checkout product feature**
+06/12/2025 03:51:37 PM: INFO: ***invoking the browser***
+06/12/2025 03:51:38 PM: INFO: ***browser invoked***
+06/12/2025 03:51:38 PM: INFO: **---TC001 Account Registration started----**
+06/12/2025 03:51:38 PM: INFO: **---Launching Application----**
+06/12/2025 03:51:41 PM: INFO: **---clicking on Register link----**
+06/12/2025 03:51:42 PM: INFO: **---Entering basic details----**
+06/12/2025 03:51:42 PM: INFO: **---clicking on Registration button----**
+06/12/2025 03:51:43 PM: INFO: **---result msg is matched----**
+06/12/2025 03:51:43 PM: INFO: **---TC001 Account Registration finished----**
+06/12/2025 03:51:43 PM: INFO: ***logging out the app***
+06/12/2025 03:51:47 PM: INFO: ***successfully logged out***
+06/12/2025 03:51:47 PM: INFO: ***closing the browser***
+06/12/2025 03:51:47 PM: INFO: ***browser closed***
+06/12/2025 03:51:47 PM: INFO: ***invoking the browser***
+06/12/2025 03:51:48 PM: INFO: ***browser invoked***
+06/12/2025 03:51:48 PM: INFO: ***---Launching browser window---***
+06/12/2025 03:51:49 PM: INFO: ***---Launching Landing Page---***
+06/12/2025 03:51:51 PM: INFO: ***---Launching Login Page---***
+06/12/2025 03:51:52 PM: INFO: ***---Launching Home Page---***
+06/12/2025 03:51:52 PM: INFO: ***---LLogin function is completed---***
+06/12/2025 03:51:52 PM: INFO: ***logging out the app***
+06/12/2025 03:51:56 PM: INFO: ***successfully logged out***
+06/12/2025 03:51:56 PM: INFO: ***closing the browser***
+06/12/2025 03:51:56 PM: INFO: ***browser closed***
+06/12/2025 03:51:56 PM: INFO: ***invoking the browser***
+06/12/2025 03:51:57 PM: INFO: ***browser invoked***
+06/12/2025 03:51:57 PM: INFO: ** getting total rows **
+06/12/2025 03:51:57 PM: INFO: ** getting total columns **
+06/12/2025 03:51:58 PM: INFO: ** creating all page objects **
+06/12/2025 03:51:58 PM: INFO: ** ddt for loop **
+06/12/2025 03:52:01 PM: INFO: ** getting result **
+06/12/2025 03:52:02 PM: INFO: ** Verifying result **
+06/12/2025 03:52:02 PM: INFO: ** result matched **
+06/12/2025 03:52:03 PM: INFO: ** getting result **
+06/12/2025 03:52:08 PM: INFO: ** Verifying result **
+06/12/2025 03:52:08 PM: INFO: ** result matched **
+06/12/2025 03:52:09 PM: INFO: ** getting result **
+06/12/2025 03:52:14 PM: INFO: ** Verifying result **
+06/12/2025 03:52:14 PM: INFO: ** result matched **
+06/12/2025 03:52:16 PM: INFO: ** getting result **
+06/12/2025 03:52:16 PM: INFO: ** Verifying result **
+06/12/2025 03:52:16 PM: INFO: ** result matched **
+06/12/2025 03:52:17 PM: INFO: ***logging out the app***
+06/12/2025 03:52:25 PM: INFO: ***successfully logged out***
+06/12/2025 03:52:25 PM: INFO: ***closing the browser***
+06/12/2025 03:52:25 PM: INFO: ***browser closed***
+06/12/2025 03:52:25 PM: INFO: ***invoking the browser***
+06/12/2025 03:52:26 PM: INFO: ***browser invoked***
+06/12/2025 03:52:26 PM: INFO: ***hitting url in browser***
+06/12/2025 03:52:30 PM: INFO: ***clicked on login link***
+06/12/2025 03:52:31 PM: INFO: ***clicked on login button***
+06/12/2025 03:52:31 PM: INFO: ** login to application**
+06/12/2025 03:52:31 PM: INFO: ** fetching all product names in homepage **
+06/12/2025 03:52:34 PM: INFO: ** selected required product name** **
+06/12/2025 03:52:41 PM: INFO: ** Adding product to the cart **
+06/12/2025 03:52:41 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:52:41 PM: INFO: ** selecting terms checkbox and clicking on checkout button **
+06/12/2025 03:52:43 PM: INFO: ** performing action checkout page**
+06/12/2025 03:52:43 PM: INFO: Waiting for shipping address continue button to be clickable
+06/12/2025 03:52:48 PM: INFO: ***logging out the app***
+06/12/2025 03:52:52 PM: INFO: ***successfully logged out***
+06/12/2025 03:52:52 PM: INFO: ***closing the browser***
+06/12/2025 03:52:52 PM: INFO: ***browser closed***
+06/12/2025 03:52:52 PM: INFO: ***invoking the browser***
+06/12/2025 03:52:53 PM: INFO: ***browser invoked***
+06/12/2025 03:52:53 PM: INFO: ***hitting url in browser***
+06/12/2025 03:52:56 PM: INFO: ***clicked on login link***
+06/12/2025 03:52:57 PM: INFO: ***clicked on login button***
+06/12/2025 03:53:08 PM: INFO: ** clicked on the cart **
+06/12/2025 03:53:15 PM: INFO: ** Verifying the cart product name **
+06/12/2025 03:53:15 PM: INFO: ***logging out the app***
+06/12/2025 03:53:19 PM: INFO: ***successfully logged out***
+06/12/2025 03:53:19 PM: INFO: ***closing the browser***
+06/12/2025 03:53:19 PM: INFO: ***browser closed***
